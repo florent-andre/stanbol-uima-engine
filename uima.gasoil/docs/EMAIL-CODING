@@ -1,0 +1,31 @@
+<urn:enhancement-9a40b5ea-7010-5f48-4077-fa3dc30c7fd0>
+      a       <http://fise.iks-project.eu/ontology/TextAnnotation> , <http://fise.iks-project.eu/ontology/Enhancement> ;
+      <http://fise.iks-project.eu/ontology/end>
+              "1851"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://fise.iks-project.eu/ontology/extracted-from>
+              <urn:content-item-sha1-083ed625b6366a42e78510b0575f1cd575bff666> ;
+      <http://fise.iks-project.eu/ontology/selected-text>
+              "sophie@nypd.com"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://fise.iks-project.eu/ontology/start>
+              "1836"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://purl.org/dc/terms/created>
+              "2011-08-02T15:59:04.577Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+      <http://purl.org/dc/terms/creator>
+              "org.apache.stanbol.enhancer.engines.gasoil.UIMADicoEngine"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+
+<urn:enhancement
+a entity
+related 
+email
+
+
+========
+> urn:123 rdf:type TextAnnotation
+> urn:123 selected-text "+43 655 290989"
+> urn:123 start "123"^^xsd:int
+> urn:123 end "137"^^xsd:int
+>
+> urn:456 rdf:type http://schema.org/ContactPoint
+> urn:456 http://schema.org/telephone "+43655290989"
+> urn:456 dc:related urn:123 

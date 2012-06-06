@@ -1,0 +1,605 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://clerezza.apache.org/2010/22/uima-entities#"
+    xmlns:j.1="http://www.semanticdesktop.org/ontologies/2007/01/19/nie#"
+    xmlns:j.2="http://purl.org/dc/terms/"
+    xmlns:j.3="http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#"
+    xmlns:j.4="http://fise.iks-project.eu/ontology/" > 
+  <rdf:Description rdf:about="urn:enhancement-6a81a474-1876-5b18-dbed-9f87b643d2f4">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/WorldHeritageSite"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5704522132873535</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <j.2:relation rdf:resource="urn:enhancement-36cd3346-76a3-b27a-0041-2fc5e59edf76"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.autotagging.impl.EntityMentionEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:54.487+01:00</j.2:created>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Annotation282">
+    <j.0:begin rdf:datatype="http://www.w3.org/2001/XMLSchema#int">84</j.0:begin>
+    <j.0:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">92</j.0:end>
+    <j.0:uimaType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation</j.0:uimaType>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature5981115"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature3985936"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature808917"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-49b8b9c5-3ea8-0897-ac51-4d45776138ad">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.545+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-aab47f0f-324f-95d1-4216-69e4b72f81af"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/3017382/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">France</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.733544692993164</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature1219205">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coveredText</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-2f01a498-9b2e-6061-c182-59d13971a68d">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.370+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:relation rdf:resource="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/5128638/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4582894515991211</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MGraph2GraphNode">
+    <j.0:contains rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Annotation278"/>
+    <j.0:contains rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Annotation282"/>
+    <j.0:contains rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Annotation286"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012">
+    <j.4:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">92</j.4:end>
+    <j.4:start rdf:datatype="http://www.w3.org/2001/XMLSchema#int">84</j.4:start>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9646341312869222</j.4:confidence>
+    <j.2:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:selection-context rdf:datatype="http://www.w3.org/2001/XMLSchema#string">After that he go to New York, and that's cool ! This is a test text for dictionnary annot.</j.4:selection-context>
+    <j.4:selected-text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York</j.4:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.opennlp.impl.NamedEntityExtractionEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:52.874+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature5897463">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.cas.AnnotationBase:sofa</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-36cd3346-76a3-b27a-0041-2fc5e59edf76">
+    <j.4:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</j.4:end>
+    <j.4:start rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</j.4:start>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9875398938075284</j.4:confidence>
+    <j.2:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:selection-context rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bob Marley first go to Paris in order to visit the Effel Tower. After that he go to New York, and that's cool !</j.4:selection-context>
+    <j.4:selected-text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.4:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.opennlp.impl.NamedEntityExtractionEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:52.873+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-672bafd8-5bc0-2bfa-e4f8-0e174cea9505">
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADM4"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.733544692993164</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/6455259/"/>
+    <j.2:requires rdf:resource="urn:enhancement-aab47f0f-324f-95d1-4216-69e4b72f81af"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.548+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-483b9a44-eca2-9109-de07-74f2d93ef863">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.365+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-d154ef46-3de7-e577-d706-77766c50bbc0"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/6255149/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">North America</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7655978393554688</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-484727f8-3321-d5bf-5862-e39675d480e5">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.366+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-d154ef46-3de7-e577-d706-77766c50bbc0"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/6252001/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">United States</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7655978393554688</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-60c15045-f023-ad94-442a-b8374a718ab9">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.371+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:relation rdf:resource="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/5073929/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York Election Precinct</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.41450153350830077</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature3930189">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:begin</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">180</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-8a45c50b-fee0-c94a-f4d7-662618dfacd8">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.367+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-d154ef46-3de7-e577-d706-77766c50bbc0"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/5128638/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7655978393554688</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature6067174">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.cas.AnnotationBase:sofa</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-15a0f994-12ea-788f-8698-93cb133bc403">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4987371063232422</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/6942553/"/>
+    <j.2:relation rdf:resource="urn:enhancement-36cd3346-76a3-b27a-0041-2fc5e59edf76"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.548+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-c406f164-beb7-3df2-4ad3-6d9bdd544a2d">
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.733544692993164</j.4:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.546+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-aab47f0f-324f-95d1-4216-69e4b72f81af"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/3012874/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Île-de-France</j.4:entity-label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature4043288">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:begin</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-d1a57b82-94b0-412c-7fd5-4aeb41c1d510">
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADM3"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.733544692993164</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/2988506/"/>
+    <j.2:requires rdf:resource="urn:enhancement-aab47f0f-324f-95d1-4216-69e4b72f81af"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.547+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-ff8699a3-57fc-b261-1b94-2a070456318e">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.85479736328125</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/5128581/"/>
+    <j.2:relation rdf:resource="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.141+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-2ea0a070-e90e-c064-c317-3fab935c0b97">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.43630409240722656</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris Township</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/4276967/"/>
+    <j.2:relation rdf:resource="urn:enhancement-36cd3346-76a3-b27a-0041-2fc5e59edf76"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.549+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-ce49165e-7e52-ffce-bd6f-a7224a93ca20">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4987371063232422</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">París Barrio</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/7268732/"/>
+    <j.2:relation rdf:resource="urn:enhancement-36cd3346-76a3-b27a-0041-2fc5e59edf76"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.548+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-654ed6a2-d56d-4a8c-8bc9-ca606a442b45">
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.4:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.metaxa.MetaxaEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:52.495+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-4ba1e076-2380-e7d7-d75d-fd62951b5089">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.545+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-aab47f0f-324f-95d1-4216-69e4b72f81af"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/6255148/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Europe</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.733544692993164</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-45de05ce-c19e-f98f-91aa-3a6aee5a01c9">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/MusicalArtist"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <j.4:entity-type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.934865474700928</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bob Marley</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://dbpedia.org/resource/Bob_Marley"/>
+    <j.2:relation rdf:resource="urn:enhancement-d54a9f5c-58be-d3ce-6423-8dbec78c72a2"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.autotagging.impl.EntityMentionEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:54.604+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-654dfcc4-86a5-1358-48fb-9dae800c4c35">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.259+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-ff8699a3-57fc-b261-1b94-2a070456318e"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/6252001/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">United States</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.85479736328125</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.PCLI"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-e1a6a43b-118b-8f24-2111-4e032e76d835">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.368+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:relation rdf:resource="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/5115985/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">East New York</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5076586151123047</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#P.PPLX"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-aab47f0f-324f-95d1-4216-69e4b72f81af">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.463+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:relation rdf:resource="urn:enhancement-36cd3346-76a3-b27a-0041-2fc5e59edf76"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/2988507/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.733544692993164</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#P.PPLC"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-9d71df30-5a10-d56a-8f64-9dad857827ba">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADMD"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.43630409240722656</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris Township</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/4246667/"/>
+    <j.2:relation rdf:resource="urn:enhancement-36cd3346-76a3-b27a-0041-2fc5e59edf76"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.549+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Annotation286">
+    <j.0:begin rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</j.0:begin>
+    <j.0:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">193</j.0:end>
+    <j.0:uimaType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation</j.0:uimaType>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature5897463"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature3930189"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature797603"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature5981115">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.cas.AnnotationBase:sofa</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-d54a9f5c-58be-d3ce-6423-8dbec78c72a2">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:52.855+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.opennlp.impl.NamedEntityExtractionEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.4:selected-text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bob Marley</j.4:selected-text>
+    <j.4:selection-context rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bob Marley first go to Paris in order to visit the Effel Tower. After that he go to New York, and that's cool !</j.4:selection-context>
+    <j.2:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.861564817241034</j.4:confidence>
+    <j.4:start rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.4:start>
+    <j.4:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</j.4:end>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-f7bb0348-e858-4bbd-10eb-f9a174ca7ba1">
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.259+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-ff8699a3-57fc-b261-1b94-2a070456318e"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/6255149/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">North America</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.85479736328125</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#L.CONT"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-5944d3c8-4043-df2b-4588-613312489df9">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.260+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-ff8699a3-57fc-b261-1b94-2a070456318e"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/5128638/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.85479736328125</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADM1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature1201911">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coveredText</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9">
+    <j.1:plainTextContent>Bob Marley first go to Paris in order to visit the Effel Tower. After that he go to New York, and that's cool ! 
+This is a test text for dictionnary annot.
+Let's try composed word new york city without upercases.
+</j.1:plainTextContent>
+    <rdf:type rdf:resource="http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#PlainTextDocument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-a718cde4-0dd0-ee98-7fd4-190470af9716">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.langid.LangIdEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:52.783+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.2:language>en</j.2:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-d154ef46-3de7-e577-d706-77766c50bbc0">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.260+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:relation rdf:resource="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/6955102/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York-Northern New Jersey-Long Island</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7655978393554688</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#L.RGNE"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-9ec77345-2d0c-19ad-10cc-e61e41d7accc">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:54.131+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.UIMADicoEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.2:language>FLOTEST</j.2:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-0a6819b2-f29d-4f0c-7d62-da18cf0f2238">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/SportsTeam"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Organisation"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/SoccerClub"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Building"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Stadium"/>
+    <j.4:entity-type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.49820613861084</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris Saint-Germain F.C.</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://dbpedia.org/resource/Paris_Saint-Germain_F.C."/>
+    <j.2:relation rdf:resource="urn:enhancement-36cd3346-76a3-b27a-0041-2fc5e59edf76"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.autotagging.impl.EntityMentionEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:54.488+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature820556">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:end</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature1185101">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coveredText</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new york city</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-83b00d22-0ae0-3c14-03b2-ee77798c5f3a">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Area"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.492445707321167</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Albany, New York</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://dbpedia.org/resource/Albany%2C_New_York"/>
+    <j.2:relation rdf:resource="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.autotagging.impl.EntityMentionEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:54.543+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature3985936">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:begin</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-27f3fb6f-44f6-61c7-a283-7caea140f86f">
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.733544692993164</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/2968815/"/>
+    <j.2:requires rdf:resource="urn:enhancement-aab47f0f-324f-95d1-4216-69e4b72f81af"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.547+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature797603">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:end</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">193</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-a97f8a40-0ac2-8434-b0d6-1efe070c7100">
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:55.367+01:00</j.2:created>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.geonames.impl.LocationEnhancementEngine</j.2:creator>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:requires rdf:resource="urn:enhancement-d154ef46-3de7-e577-d706-77766c50bbc0"/>
+    <j.4:entity-reference rdf:resource="http://sws.geonames.org/5133268/"/>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Queens</j.4:entity-label>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7655978393554688</j.4:confidence>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <j.4:entity-type rdf:resource="http://www.geonames.org/ontology#A.ADM2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Annotation278">
+    <j.0:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</j.0:end>
+    <j.0:begin rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</j.0:begin>
+    <j.0:uimaType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation</j.0:uimaType>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature6067174"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature4043288"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature820556"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-dad3be19-df95-93f8-401b-78ac1f506c4a">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Area"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.025412082672119</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <j.2:relation rdf:resource="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.autotagging.impl.EntityMentionEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:54.542+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature808917">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:end</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">92</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-adefbd37-6d79-91b6-95bf-62b595f45abf">
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Area"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <j.4:entity-type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <j.4:entity-type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.4:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.319411277770996</j.4:confidence>
+    <j.4:entity-label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York City</j.4:entity-label>
+    <j.4:entity-reference rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <j.2:relation rdf:resource="urn:enhancement-12580aae-4696-5384-88e2-e0a0c029c012"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/EntityAnnotation"/>
+    <j.2:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.autotagging.impl.EntityMentionEnhancementEngine</j.2:creator>
+    <j.2:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:36:54.543+01:00</j.2:created>
+    <j.4:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+</rdf:RDF>
+

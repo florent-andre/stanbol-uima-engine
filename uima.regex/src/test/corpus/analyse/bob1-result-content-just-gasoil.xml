@@ -1,0 +1,88 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://clerezza.apache.org/2010/22/uima-entities#"
+    xmlns:j.1="http://purl.org/dc/terms/"
+    xmlns:j.2="http://fise.iks-project.eu/ontology/" > 
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature1185101">
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new york city</j.0:featureValue>
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coveredText</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Annotation282">
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature7575424"/>
+    <j.0:begin rdf:datatype="http://www.w3.org/2001/XMLSchema#int">84</j.0:begin>
+    <j.0:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">92</j.0:end>
+    <j.0:uimaType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation</j.0:uimaType>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature512646"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature5003087"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature5003087">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:begin</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">84</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature7575424">
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">92</j.0:featureValue>
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:end</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature1219205">
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</j.0:featureValue>
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coveredText</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="MGraph2GraphNode">
+    <j.0:contains rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Annotation286"/>
+    <j.0:contains rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Annotation282"/>
+    <j.0:contains rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Annotation278"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-7b23f071-dd54-ab6e-110d-1ad1522d0fc7">
+    <j.1:language>FLOTEST</j.1:language>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.UIMADicoEngine</j.1:creator>
+    <j.1:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-08T10:57:39.166+01:00</j.1:created>
+    <j.2:extracted-from rdf:resource="urn:content-item-sha1-f7e575dc8303abdfaec301fff057a7c059e8e9b9"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature7684423">
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</j.0:featureValue>
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:end</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature1201911">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coveredText</j.0:featureName>
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New York</j.0:featureValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Annotation278">
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature7684423"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature5075074"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature520022"/>
+    <j.0:uimaType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation</j.0:uimaType>
+    <j.0:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</j.0:end>
+    <j.0:begin rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</j.0:begin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature5075074">
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</j.0:featureValue>
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:begin</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature512646">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.cas.AnnotationBase:sofa</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature505476">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.cas.AnnotationBase:sofa</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature4933114">
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">180</j.0:featureValue>
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:begin</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature520022">
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.cas.AnnotationBase:sofa</j.0:featureName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Annotation286">
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature7469474"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature4933114"/>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature505476"/>
+    <j.0:uimaType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation</j.0:uimaType>
+    <j.0:end rdf:datatype="http://www.w3.org/2001/XMLSchema#int">193</j.0:end>
+    <j.0:begin rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</j.0:begin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Feature7469474">
+    <j.0:featureValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">193</j.0:featureValue>
+    <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uima.tcas.Annotation:end</j.0:featureName>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,79 @@
+
+== tester le document via curl
+- aller dans le dossier dev-material
+- curl -X POST -H "Accept: text/turtle" -H "Content-type: text/plain" -F "data=@document" http://localhost:8080/engines
+
+== pour publier une modification d'un bundle dans le serveur
+mvn install -o -DskipTests -PinstallBundle -Dsling.url=http://localhost:8080/system/console
+
+
+== Add to the bundle list 
+* modifity this file : fise/launchers/full/src/main/bundles/list.xml 
+* in <!-- FISE Enhancement Engines -->
+	<startLevel level="30">
+
+<!-- gasoil -->
+		<!-- gasoil -->
+		<bundle>
+			<groupId>org.apache.stanbol</groupId>
+			<artifactId>org.apache.stanbol.enhancer.engines.gasoil</artifactId>
+			<version>0.9-SNAPSHOT</version>
+		</bundle>
+
+=== build the bundle :: to update
+== get uima engines dependencies : 
+
+- svn co http://svn.apache.org/repos/asf/uima/sandbox/trunk/ sandbox
+-- Last Changed Rev tested: 1056535 
+
+- cd sandbox/aggregate-addons
+
+-- mvn install -Dmaven.test.skip=true
+-- skip test cause : (https://issues.apache.org/jira/browse/UIMA-2003)
+
+== clerezza 
+
+
+-- Last Changed Rev tested: 993306
+
+-- mvn install -Dmaven.test.skip=true
+-- skip test cause : (https://issues.apache.org/jira/browse/   ///////////???)
+==> bug trace a soumettre : 
+clerezza
+
+== svn info 
+
+URL: http://svn.apache.org/repos/asf/incubator/clerezza/trunk/org.apache.clerezza.parent
+Repository Root: http://svn.apache.org/repos/asf
+Repository UUID: 13f79535-47bb-0310-9956-ffa450edef68
+Revision: 993324
+Node Kind: directory
+Schedule: normal
+Last Changed Author: reto
+Last Changed Rev: 993306
+Last Changed Date: 2010-09-07 11:57:09 +0200 (Tue, 07 Sep 2010)
+
+
+== error 
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running org.apache.clerezza.utils.imageprocessing.metadataprocessing.MetaDataConversionTest
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 1.03 sec <<< FAILURE!
+Running org.apache.clerezza.utils.imageprocessing.ImageProcessorTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.709 sec
+
+Results :
+
+Failed tests: 
+  testIptcToXmp(org.apache.clerezza.utils.imageprocessing.metadataprocessing.MetaDataConversionTest)
+  testExifToXmp(org.apache.clerezza.utils.imageprocessing.metadataprocessing.MetaDataConversionTest)
+
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[ERROR] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] There are test failures.
+

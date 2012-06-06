@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!--
+   Licensed to the Apache Software Foundation (ASF) under one or more
+   contributor license agreements.  See the NOTICE file distributed with
+   this work for additional information regarding copyright ownership.
+   The ASF licenses this file to You under the Apache License, Version 2.0
+   (the "License"); you may not use this file except in compliance with
+   the License.  You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+  -->
+<project
+   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+   xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.apache.stanbol</groupId>
+    <artifactId>org.apache.stanbol.enhancer.parent</artifactId>
+    <version>0.9.0-incubating-SNAPSHOT</version>
+    <!--<relativePath>../../parent</relativePath>-->
+    <!-- <relativePath>../../stanbol-trunk/parent</relativePath>-->
+
+  </parent>
+  <groupId>org.apache.stanbol</groupId>
+  <artifactId>org.apache.stanbol.enhancer.engines.uima.gasoil</artifactId>
+  <packaging>bundle</packaging>
+  <!--<version>${enhancer-version}</version>-->
+  <name>Apache Stanbol Enhancer Enhancement Engine : Gasoil UIMA Engine that concat Dico and Regex UIMA processing.</name>
+  <description>
+    Implementation for Gasoil that bring together Dico and Regex.
+  </description>
+  <url>http://maven.apache.org</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+	
+    <dependency>
+      <groupId>org.apache.stanbol</groupId>
+      <artifactId>org.apache.stanbol.enhancer.engines.uimaservice</artifactId>
+      <version>0.9.0-incubating-SNAPSHOT</version>
+    </dependency>
+	
+    <dependency>
+      <groupId>org.apache.stanbol</groupId>
+      <artifactId>org.apache.stanbol.enhancer.servicesapi</artifactId>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apache.stanbol</groupId>
+      <artifactId>org.apache.stanbol.entityhub.model.clerezza</artifactId>
+    </dependency>
+
+    <!-- for the Entityhub classes -->
+    <dependency>
+      <groupId>org.apache.stanbol</groupId>
+      <artifactId>org.apache.stanbol.entityhub.servicesapi</artifactId>
+    </dependency>
+    
+    <!-- dependency for the contexthelper -->
+    <dependency>
+      <groupId>org.apache.stanbol</groupId>
+      <artifactId>org.apache.stanbol.commons.web.base</artifactId>
+    </dependency>
+    
+    <!-- dependency for jersey / servlet -->
+    <dependency>
+      <groupId>com.sun.jersey</groupId>
+      <artifactId>jersey-core</artifactId>
+    </dependency>
+    
+    <dependency>
+    	<groupId>javax.servlet</groupId>
+    	<artifactId>servlet-api</artifactId>
+    </dependency>
+
+    <!-- clerezza dependencies -->
+    <!-- TODO : check if main version is align to this new nomenclature, and remove version number here if yes -->
+    <dependency>
+      <groupId>org.apache.clerezza</groupId>
+      <artifactId>rdf.core</artifactId>
+      <version>0.12-incubating-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.clerezza</groupId>
+      <artifactId>rdf.utils</artifactId>
+      <version>0.13-incubating-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.clerezza</groupId>
+      <artifactId>uima.utils</artifactId>
+      <version>0.1-incubating-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.clerezza</groupId>
+      <artifactId>uima.ontologies</artifactId>
+      <version>0.1-incubating-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.clerezza</groupId>
+      <artifactId>org.apache.clerezza.rdf.jena.serializer</artifactId>
+      <version>0.9-incubating-SNAPSHOT</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>RegularExpressionAnnotator-osgi</artifactId>
+      <version>2.3.1-SNAPSHOT</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>WhitespaceTokenizer-osgi</artifactId>
+      <version>2.3.1-SNAPSHOT</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>DictionaryAnnotator-osgi</artifactId>
+      <version>2.3.1-SNAPSHOT</version>
+    </dependency>
+    
+    <!-- testing -->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <scope>test</scope>
+    </dependency>
+    
+    <!-- TODO : see if required -->
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-simple</artifactId>
+      <scope>test</scope>
+    </dependency>
+
+    <!-- Dependencies added cause of warning when start felix container 
+	 TODO : try to put this osgi inside the launcher list.xml bundles. If ok, remove dependencies in embed-dependencies	
+      -->
+    <!-- Come from alchemy-annotator, have to solve them here while it's not solved at the alchemy level -->
+    <dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+      <version>1.1.1</version>
+    </dependency>
+    <!-- end dependencies added cause warning when start felix container -->
+  </dependencies>
+  
+  <build>
+    <plugins>
+      <plugin>
+	<groupId>org.apache.felix</groupId>
+	<artifactId>maven-bundle-plugin</artifactId>
+	<extensions>true</extensions>
+	<configuration>
+	  <instructions>
+	    <Export-Package>
+	      org.apache.stanbol.enhancer.engines.uima;version=${project.version},
+	      org.apache.uima.annotator.*;version=2.3.1-SNAPSHOT,
+	      org.apache.uima.jcas.*,
+	      org.apache.uima.cas.*,
+	      org.apache.clerezza.uima.utils.*,
+	      schemaorg_apache_xmlbeans.system.*
+        </Export-Package>
+	   <Embed-Dependency>
+	      uima.utils;version=0.1-incubating-SNAPSHOT,
+	      RegularExpressionAnnotator-osgi;version=2.3.1-SNAPSHOT,
+	      WhitespaceTokenizer-osgi;version=2.3.1-SNAPSHOT,
+	      DictionaryAnnotator-osgi;version=2.3.1-SNAPSHOT
+	    </Embed-Dependency>
+	    <Embed-Transitive>true</Embed-Transitive>
+	    <!-- dans ce module ajout de 
+	    	!org.apache.uima.alchemy.ts.*,
+	      !org.apache.uima.calais.*,
+	      alors que n'est pas présent dans les autres... prq ?
+	     -->
+	    <Import-Package>
+		  org.apache.uima.*,
+		  org.apache.incubator.uima.*,
+	      !org.apache.commons.digester;version="2.1.0",
+	      !org.apache.avalon.framework.logger.*,
+	      !org.apache.log.*,
+	      !org.apache.tools.ant.*,
+	      !com.sun.javadoc,
+	      !com.sun.tools.javadoc,
+	      !org.apache.xml.resolver.*,
+	      org.w3c.dom,
+	      javax.xml.*;version="0.0.0",
+	      javax.xml.namespace,
+	      *
+	    </Import-Package>
+	  </instructions>
+	</configuration>
+      </plugin>
+      <plugin>
+	<groupId>org.apache.felix</groupId>
+	<artifactId>maven-scr-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
+  
+</project>

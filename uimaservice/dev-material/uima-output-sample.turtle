@@ -1,0 +1,207 @@
+<http://clerezza.apache.org/2010/22/uima-entities#Feature12504047>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.cas.AnnotationBase:sofa"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              """Sofa
+   sofaNum: 1
+   sofaID: \"_InitialView\"
+   mimeType: \"text\"
+   sofaArray: <null>
+   sofaString: \"New York Paris London are cities, and there is some VALEUR PROFESSIONNELLE and ELEMENT DISSIPATIF in it. Also some centrale c.
+\"
+   sofaURI: <null>
+"""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature13883804>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.cas.AnnotationBase:sofa"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              """Sofa
+   sofaNum: 1
+   sofaID: \"_InitialView\"
+   mimeType: \"text\"
+   sofaArray: <null>
+   sofaString: \"New York Paris London are cities, and there is some VALEUR PROFESSIONNELLE and ELEMENT DISSIPATIF in it. Also some centrale c.
+\"
+   sofaURI: <null>
+"""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature9372320>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:begin"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "22"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature12822621>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.cas.AnnotationBase:sofa"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              """Sofa
+   sofaNum: 1
+   sofaID: \"_InitialView\"
+   mimeType: \"text\"
+   sofaArray: <null>
+   sofaString: \"New York Paris London are cities, and there is some VALEUR PROFESSIONNELLE and ELEMENT DISSIPATIF in it. Also some centrale c.
+\"
+   sofaURI: <null>
+"""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<MGraph2GraphNode>
+      <http://clerezza.apache.org/2010/22/uima-entities#contains>
+              <http://clerezza.apache.org/2010/22/uima-entities#Annotation157> , <http://clerezza.apache.org/2010/22/uima-entities#Annotation149> , <http://clerezza.apache.org/2010/22/uima-entities#Annotation153> , <http://clerezza.apache.org/2010/22/uima-entities#Annotation145> , <http://clerezza.apache.org/2010/22/uima-entities#Annotation161> , <http://clerezza.apache.org/2010/22/uima-entities#Annotation165> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature9889414>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:begin"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature10961225>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:end"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "8"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature12200918>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.cas.AnnotationBase:sofa"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              """Sofa
+   sofaNum: 1
+   sofaID: \"_InitialView\"
+   mimeType: \"text\"
+   sofaArray: <null>
+   sofaString: \"New York Paris London are cities, and there is some VALEUR PROFESSIONNELLE and ELEMENT DISSIPATIF in it. Also some centrale c.
+\"
+   sofaURI: <null>
+"""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Annotation161>
+      <http://clerezza.apache.org/2010/22/uima-entities#coveredText>
+              "ELEMENT DISSIPATIF"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#hasFeature>
+              <http://clerezza.apache.org/2010/22/uima-entities#Feature9871910> , <http://clerezza.apache.org/2010/22/uima-entities#Feature12504047> , <http://clerezza.apache.org/2010/22/uima-entities#Feature8906615> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#uimaType>
+              "org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature13157853>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.cas.AnnotationBase:sofa"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              """Sofa
+   sofaNum: 1
+   sofaID: \"_InitialView\"
+   mimeType: \"text\"
+   sofaArray: <null>
+   sofaString: \"New York Paris London are cities, and there is some VALEUR PROFESSIONNELLE and ELEMENT DISSIPATIF in it. Also some centrale c.
+\"
+   sofaURI: <null>
+"""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature8690697>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:begin"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "115"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature13511084>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.cas.AnnotationBase:sofa"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              """Sofa
+   sofaNum: 1
+   sofaID: \"_InitialView\"
+   mimeType: \"text\"
+   sofaArray: <null>
+   sofaString: \"New York Paris London are cities, and there is some VALEUR PROFESSIONNELLE and ELEMENT DISSIPATIF in it. Also some centrale c.
+\"
+   sofaURI: <null>
+"""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature10666963>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:end"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "14"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Annotation149>
+      <http://clerezza.apache.org/2010/22/uima-entities#coveredText>
+              "Paris"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#hasFeature>
+              <http://clerezza.apache.org/2010/22/uima-entities#Feature13511084> , <http://clerezza.apache.org/2010/22/uima-entities#Feature10666963> , <http://clerezza.apache.org/2010/22/uima-entities#Feature9623926> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#uimaType>
+              "org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature9632591>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:end"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "125"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature9871910>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:end"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "97"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature10388089>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:end"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "25"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Annotation165>
+      <http://clerezza.apache.org/2010/22/uima-entities#coveredText>
+              "centrale c"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#hasFeature>
+              <http://clerezza.apache.org/2010/22/uima-entities#Feature9632591> , <http://clerezza.apache.org/2010/22/uima-entities#Feature12200918> , <http://clerezza.apache.org/2010/22/uima-entities#Feature8690697> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#uimaType>
+              "org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Annotation157>
+      <http://clerezza.apache.org/2010/22/uima-entities#coveredText>
+              "VALEUR PROFESSIONNELLE"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#hasFeature>
+              <http://clerezza.apache.org/2010/22/uima-entities#Feature12822621> , <http://clerezza.apache.org/2010/22/uima-entities#Feature9133535> , <http://clerezza.apache.org/2010/22/uima-entities#Feature10123424> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#uimaType>
+              "org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Annotation153>
+      <http://clerezza.apache.org/2010/22/uima-entities#coveredText>
+              "are"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#hasFeature>
+              <http://clerezza.apache.org/2010/22/uima-entities#Feature13157853> , <http://clerezza.apache.org/2010/22/uima-entities#Feature9372320> , <http://clerezza.apache.org/2010/22/uima-entities#Feature10388089> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#uimaType>
+              "org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Annotation145>
+      <http://clerezza.apache.org/2010/22/uima-entities#coveredText>
+              "New York"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#hasFeature>
+              <http://clerezza.apache.org/2010/22/uima-entities#Feature10961225> , <http://clerezza.apache.org/2010/22/uima-entities#Feature13883804> , <http://clerezza.apache.org/2010/22/uima-entities#Feature9889414> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#uimaType>
+              "org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature9133535>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:begin"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "52"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature8906615>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:begin"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "79"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature9623926>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:begin"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "9"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://clerezza.apache.org/2010/22/uima-entities#Feature10123424>
+      <http://clerezza.apache.org/2010/22/uima-entities#featureName>
+              "uima.tcas.Annotation:end"^^<http://www.w3.org/2001/XMLSchema#string> ;
+      <http://clerezza.apache.org/2010/22/uima-entities#featureValue>
+              "74"^^<http://www.w3.org/2001/XMLSchema#string> .

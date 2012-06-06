@@ -1,0 +1,18 @@
+<rdf:Description rdf:about="http://clerezza.apache.org/2010/22/uima-entities#Annotation3492">
+    <j.0:coveredText rdf:datatype="http://www.w3.org/2001/XMLSchema#string">florent@apache.org</j.0:coveredText>
+    <j.0:uimaType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAn\
+notation</j.0:uimaType>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature328024"/>
+--> sofa avec extrait de texte (tout le texte)
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature497435"/>
+--> begin
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature460580"/>
+--> end
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature363594"/>
+--> local part : <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation:localPart</j.0:featureName>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature565115"/>
+--> domain part <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation:domainPart</j.0:featureName>
+    <j.0:hasFeature rdf:resource="http://clerezza.apache.org/2010/22/uima-entities#Feature265307"/>
+-->  normalized email  <j.0:featureName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">org.apache.stanbol.enhancer.engines.gasoil.TokenAnnotation:normalizedEmail</j.0:featureName>
+  </rdf:Description>
+

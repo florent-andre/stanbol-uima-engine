@@ -1,0 +1,2332 @@
+ELECTRICITE DE FRANCE
+DIRECTION DES ETUDES ET RECHERCHES
+Service Applications de l'Electricité et
+Environnement
+Département Systèmes Energétiques
+Groupe Electrochimie
+25, Allée Privée - Carrefour Pleyel
+93206 SAINT-DENIS CEDEX 1
+TEL . : 49.22.88.62
+	
+p t7
+Christine KOT - Pascal BATICLE
+ELIMINATION DU CALCIUM
+DANS LES EFFLUENTS SALINS :
+ELECTRODIALYSE, PRECIPITATION ET RESINES
+HE-539/92, 11
+	
+48 pages
+5 annexes
+Type de note : Rapport
+	
+ARD : E5302R
+Etape n° 6
+Résumé :
+Le problème de précipitation d'hydroxydes (calcium et magnésium) sur la
+membrane cationique durant une électrolyse à membranes est un problème
+générique.
+Les essais menés sur un effluent industriel chargé en sulfate de sodium,
+permettent de conclure sur une bonne efficacité des membranes cationiques
+permsélectives aux cations monovalents, sans toutefois atteindre une
+exclusion totale des ions calcium . Que ce soit par l'utilisation de ces
+membranes ou par précipitation en milieu alcalin, le taux de calcium dans
+l'effluent ne peut être amené au mieux qu'à 5-10 mg,, l . Cet abattage de
+calcium est insuffisant pour préserver durablement la membrane cationique.
+L'épuration en calcium de ces effluents a été testée sur plusieurs résines
+échangeuses d'ions. Nous avons obtenu une concentration résiduelle en
+calcium dans la saumure inférieure à 20 µg/I . Le test de vieillissement de la
+membrane cationique avec une saumure épurée est reporté.
+MotS-Clés : Calcium, électrodialyse, résines chélatantes, épuration.
+Accessibilité : restreinte
+	
+Intérêt documentaire : Oui
+Copyright EDF 1992
+Juillet 1992
+., : .
+	
+. ,
+L13. CT
+,.
+.1092
+	 ,;
+DESTINATAIRES
+M . ORFEUIL
+M . HERY
+M . JUD
+Mme LETORD
+Melle KOT
+M_ AUDRAN
+M . BATICLE
+Département ADE : M . METAIL
+EDF/DER :
+Service A.E.E. :
+Département S .E. :
+Service IPN : UD CHATOU
+POUR UNE LECTURE RAPIDE
+Le traitement d'effluents salins par électro-électrodialyse (EED) afin de régénérer l'acide et la
+base correspondants, soulève nécessairement le problème de la présence d'impuretés dans ces
+effluents
+. Ce problème est d'autant plus pénalisant que ces impuretés sont susceptibles de
+devenir insolubles en milieu alcalin.
+Parmi ces impuretés, il en est une que l'on trouve fréquemment dans les effluents : c'est le
+calcium, qui devient un élément indésirable dès lors qu'il atteint ou dépasse la très faible
+concentration de 20 µg/1* . La présence de sels de calcium est fortement liée à l'utilisation
+d'eau de ville (plus ou moins riche en calcium suivant les régions), soit en amont dans le
+procédé ayant mené à cet effluent, soit lors de lavages à l'eau de ville lorsqu'il s'agit
+d'effluents de lavage. A cette source de calcium, s'ajoutent les minerais qui peuvent être
+utilisés comme matières premières dans le procédé.
+Compte tenu de l'aspect générique que prend le problème lié à la présence de calcium dans
+les effluents aqueux, il est devenu nécessaire de définir un traitement physico-chimique
+d"`élimination" de cet élément
+. Pour ce faire, le traitement très complet appliqué dans
+l'industrie du chlore-soude à membrane a servi de référence . Ce traitement consiste à
+précipiter le calcium sous forme de carbonate après passage en milieu alcalin, filtrer les
+produits insolubilisés, revenir en milieu neutre avant de faire passer la solution saline (NaCI)
+sur une résine échangeuse de cations chélatante . Cette résine a la particularité de n'échanger
+que les cations multivalents de la solution contre des cations monovalents . Ainsi, la
+concentration en calcium dans la solution saline peut être amenée à un taux très faible, sans
+que la teneur en sel principal (NaCI) n'en soit modifiée.
+S'agissant ici du traitement d'un effluent et non d'une étape de production, nous avons voulu
+rechercher un ensemble d'opérations plus simple pour arriver à un niveau en calcium
+"acceptable" . D'autre part, ayant rencontré le problème réel de la précipitation de sels
+insolubles de calcium lors du traitement d'un effluent chargé en sulfate de sodium par EED,
+les différentes opérations unitaires visant à réduire la teneur en calcium ont pu être testées sur
+une solution réelle.
+* teneur maximale tolérée dans l'électrolyse à membrane du chlorure de sodium (chlore-
+soude), où le problème de précipitation d1iydroxyde de calcium dans la membrane
+cationique est similaire .
+Les performances des techniques suivantes ont ainsi été évaluées :
+•
+	
+utilisation de membranes cationiques permsélectives aux cations monovalents, pour
+limiter la concentration des ions calcium au cours de l'étape de préconcentration de
+l'effluent par électrodialyse . Cette étape précède le passage en EED;
+•
+	
+élimination partielle du calcium par précipitation, en milieu alcalin, sous forme de
+carbonate de calcium, puis clarification de la solution biphasique obtenue par
+microfiltration tangentielle;
+•
+	
+passage sur résine échangeuse de cations : échange des ions calcium contre des ions
+sodium. Plusieurs résines utilisées dans l'industrie du chlore-soude ont été testées;
+•
+	
+combinaison de deux techniques : précipitation-filtration et passage sur résine . Ce
+traitement est ensuite validé sur pilote de vieillissement en EED.
+Les essais menés sur l'effluent chargé en sulfate de sodium de l'usine Labso Chimie Fine de
+Compiègne, permettent de conclure sur une bonne efficacité des membranes cationiques
+permsélectives aux cations monovalents, sans toutefois atteindre une exclusion totale des ions
+calcium. Que ce soit par l'utilisation de ces membranes ou par précipitation en milieu alcalin,
+le taux de calcium dans l'effluent ne peut être amené au mieux qu'à 5-10 mg/1 . Cet abattage
+de calcium permet seulement de limiter la précipitation du calcium en EED, la durée de vie de
+la membrane cationique de l'empilement d'EED en est légèrement augmentée.
+La faisabilité de l'épuration par résines des saumures de sulfate de sodium a été démontrée
+avec au moins trois des cinq résines testées. L'une d'elles a été choisie (LEWATIT TP 208 de
+chez BAYER) pour traiter une quantité suffisante de sel afin de faire un essai sur le pilote de
+vieillissement PIVERT (soit 500 litres) . Nous pourrons ainsi évaluer de façon précise l'effet
+de ce traitement sur la durée de vie de la membrane cationique . Cet essai est reporté à une
+date ultérieure pour cause de déménagement du groupe aux Renardières .
+SOMMAIRE
+• INTRODUCTION
+• CONTEXTE DE L'ETUDE
+• PRÉSENTATION GÉNÉRALE DES DIFFÉRENTES TECHNIQUES
+	
+3
+D'ÉLIMINATION DU CALCIUM
+• LELECTRODIALYSE A MEMBRANES CATIONIQUES PERMSELECTIVES
+	
+7
+AUX CATIONS MONOVALENTS
+RAPPEL DU PRINCIPE D'ÉLECTRODIALYSE
+	
+8
+LES MEMBRANES ÉCHANGEUSES D'IONS PRÉSENTANT UNE
+	
+10
+PERMSELECTIVITE PREFERENTIELLE AUX IONS MONOVALENTS
+ESSAIS D'ÉLECTRODIALYSE
+	
+13
+Conditions expérimentales
+	
+13
+Suivi des essais d'électrodialyse
+	
+15
+Résultats
+	
+15
+1
+2
+Eléments d'estimation du coût de l'opération
+	
+17
+• ÉLIMINATION DU CALCIUM PAR PRECIPITATION
+	
+19
+PRÉTRAITEMENT PAR PRÉCIPITATION-MICROFILTRATION
+	
+20
+TANGENTIELLE DE L'EFFLUENT CONCENTRE
+Où se place le prétraitement dans la régénération de l'acide et de la
+	
+20
+base à partir de l'effluent salin?
+En quoi consiste ce prétraitement?
+	
+20
+Efficacité escomptée du prétraitement
+	
+21
+Description des essais
+	
+22
+Résultats du prétraitement
+	
+22
+Éléments d'estimation du coût de l'opération
+	
+24
+• TRAITEMENT SUR RESINES
+	
+25
+GENERALITES SUR LES RESINES
+	
+26
+ESSAIS SUR LES RESINES
+	
+29
+But de nos essais
+	
+29
+Caractéristiques des résines
+	
+30
+Les essais
+	
+31
+Suite des essais
+	
+40
+Comment traiter 500 litres de saumure
+	
+41
+CONCLUSIONS SUR LE TRAITEMENT DES SAUMURES SUR RESINES
+	
+43
+0 CONCLUSIONS
+	
+44
+ANNEXES
+Annexe I : définition du rendement en courant et du transfert d'eau
+	
+1
+Annexe II : Spécifications des membranes échangeuse d'ions utilisées lors des
+	
+v
+essais d'électrodialyse
+Annexe III : Fiches détaillées de quelques essais d'électrodialyse
+	
+1X
+Annexe IV : Comparaison des performances des membranes cationiques
+	
+XV
+étudiées en électrodialyse
+Annexe V : Mise au point du dosage de traces de calcium dans une saumure
+	
+XXIII
+de sulfate de sodium
+1INTRODUCTION
+Suite à un encrassement des membranes cationiques observé lors des essais de vieillissement
+en électro-électrodialyse d'un effluent réel chargé en sulfate de sodium (effluent de la société
+LABSO CHIMIE FINE de Compiègne) [rapport HE-539/91/34], la durée de vie de ces
+membranes est sensiblement raccourcie (800 heures environ) . Le dépôt est localisé sur la face
+donnant sur le compartiment du sel de la membrane cationique Ce dépôt a été identifié
+comme étant un mélange complexe de sels de calcium, d'aluminium et de magnésium . Sa
+composition varie suivant la position du dépôt sur la membrane . Toutefois, on peut noter la
+prédominance du calcium dans ce dépôt, ce qui nous amène à réfléchir sur une méthode de
+traitement de l'effluent consistant à "éliminer" cet élément alcalino-terreux gênant.
+Le problème du calcium, qui précipite inévitablement en milieu alcalin, se pose également
+dans l'industrie du chlore-soude à membrane, la bibliographie ) signale le besoin de traiter les
+saumures pour qu'elles contiennent au maximum 20 ppb (µg/1) de calcium pour limiter sa
+précipitation au sein de la membrane cationique.
+Dans l'optique d'allonger la durée de vie des membranes cationiques susceptibles de travailler
+en milieu basique, nous avons étudié l'efficacité des membranes dites permsélectives aux
+cations monovalents, du traitement classique par précipitation-filtration et des résines
+échangeuses d'ions chélatantes face au problème "d'élimination" du calcium.
+lY. Ogata; Journal of Applied Electrochemistry; 21 ; 1991; 781-784 .
+2CONTEXTE DE L'ÉTUDE
+Dans le cas du traitement d'un effluent salin pour recycler l'acide et la base correspondants,
+deux étapes sont nécessaires. La première étape consiste à concentrer l'effluent contenant le
+sel en faible concentration par électrodialyse (ED), la deuxième étape est la régénération
+proprement dite de l'acide et de la base à partir de cette solution préconcentrée . Cette
+deuxième étape peut être menée à bien par deux techniques electro-membranaires : 1'électro-
+électrodialyse (EED) et l'électrodialyse à membranes bipolaires (dont les performances sont
+en cours d'étude) . Dans les deux cas, la membrane cationique sépare le compartiment salin
+susceptible de contenir du calcium du compartiment basique ; configuration dans laquelle on
+peut craindre la précipitation de sels insolubles de calcium dans la membrane.
+Pour "éliminer" le calcium avant la deuxième étape qui est la phase sensible où la
+précipitation peut avoir lieu, trois solutions sont envisageables:
+0 1) empêcher le passage du calcium du diluat vers le concentrat lors de la première étape
+d'électrodialyse ; autrement dit, concentrer le sel principal de l'effluent - celui dont on
+recherche à régénérer l'acide et la base - sans concentrer les impuretés (le sel de
+calcium) grâce à l'utilisation de membranes cationiques permsélectives aux cations
+monovalents. Cette solution n'est envisageable que lorsque le cation du sel qui nous
+intéresse est un cation monovalent, ce qui est le cas du sulfate de sodium.
+0 2) éliminer en grande partie le calcium après la première étape de concentration, en le
+rendant insoluble par précipitation du carbonate de calcium . Une filtration permettra de
+séparer l'effluent concentré des produits insolubles (sels de calcium) . Cette solution
+implique une mise à pH en amont de la précipitation, celle-ci n'ayant lieu qu'en milieu
+basique : passage de pH=6, pH de l'effluent concentré, à pH= 11.
+03) retirer le calcium contenu dans l'effluent via une résine échangeuse d'ions : les cations
+calcium seront ainsi remplacés par des cations sodium. Cette solution suppose donc un
+prétraitement de l'effluent ajoutant ainsi une étape supplémentaire au procédé, avec
+toutes les conséquences de coût qui s'en suivent . Il ne faut également pas perdre de vue
+qu'une résine échangeuse d'ions doit être régénérée à intervalles réguliers et que cette
+opération engendre un nouvel effluent.
+3PRÉSENTATION GÉNÉRALE DES DIFFÉRENTES TECHNIQUES
+D'ÉLIMINATION DU CALCIUM
+Les solutions p otentielles d'élimination du calcium et
+leur place dans le procédé -
+Plusieurs scénarios sont envisageables, aux faisabilités techniques près:
+• scénario 1
+Le poste d'électrodialyse (ED) à membranes permsélectives aux cations
+monovalents permettrait à lui seul d'obtenir une solution concentrée en Na2S O4
+suffisamment dépourvue de calcium de sorte que la précipitation de ce calcium lors de
+l'électro-électrodialyse (EED) ne puisse pas avoir lieu (figure 1).
+Effluent épuré
+	
+Effluent
+	
+D
+	
+Na SO
+H2SO4
+-
+100 g/1
+	
+l
+	
+--Cr----
+	
+,-24
+	 Na2SO4à= 100g/l
+	
+Na2SO4
+	
+NaOH à
+recycler dans l'ED
+	
+ED à membranes
+	
+,
+cationiques sélectives
+	
+EED
+concentration de l'effluent
+	
+: régénération de l'acide et de la base
+figure 1 :
+	
+combinaison de l'ED à membranes cationiques permsélectives
+aux monocations avec PEED à trois compartiments
+• scénario 2
+Le poste de résines échangeuses d'ions chélatantes, placé entre l'ED et l'EED
+permettrait de réduire très fortement la concentration en calcium sans affecter la
+solution traitée, riche en sulfate de sodium (= 200 g/1) (figure 2) .
+4Remarque : Les résines sont d'autant moins efficaces qu'elles ont subi un nombre
+élevé de régénérations, par conséquent, pour augmenter la durée d'un cycle de
+fonctionnement (laps de temps entre deux régénérations consécutives), il est plus
+intéressant de travailler avec des solutions pauvres en ions à retenir . Classiquement, dans
+l'industrie du chlore-soude, plusieurs résines échangeuses d'ions chélatantes placées en
+cascade sont utilisées pour amener la concentration en calcium dans la saumure d'environ
+10 mg/1 à une vingtaine de µg/l . A priori, il serait beaucoup plus facile de traiter
+directement l'effluent avant ED à environ 20-100 mg/1 de calcium sur résines
+échangeuses d'ions plutôt que le concentra où le sulfate de sodium ainsi que le calcium
+se trouve à des concentrations plus élevées (calcium présent à 60-200 mg/1) . Mais le
+volume à traiter est nettement plus faible dans le second cas, il paraît donc intéressant
+d'étudier les performances des résines mêmes en dehors de l'intervalle de concentrations
+préconisé.
+Na2 SO4 ^ 200 g/1
+[Cal ~ 60 - 200 ppm
+I
+Effluent épuré
+Effluent
+-:00
+D
+-------
+z 100 g/1 C
+Na2 SO4
+ED avec des
+membranes classiques
+concentration de l'effluent
+t Résine écbangeuse d'ions
+I Remplacement des ions calcium
+par des ions sodium
+y
+Na2SO 4 à - 200 g/1 dépourvu de calcium
+H2SO 4
+Na 2SO4 à =100 9/1
+	 à recycler dans l'ED
+NaOH
+EED
+régénération de l'acide et de la base
+figure 2 :
+	
+Association ED classique avec un traitement sur résine
+échangeuse de cations chélatante et EED
+5• scénario
+L'effluent est concentré par ED classique avec des membranes cationiques classiques, et
+le concentrat est soumis à un traitement de type précipitation avant l'envoi en EED
+(figure 3). Dans l'industrie du chlore-soude, la saumure sortant de l'ED est en effet
+traitée avec un mélange soude / carbonate de sodium pour effectuer un abattage de
+calcium : après passage en milieu alcalin, le calcium est précipité à la fois sous forme
+d'hydroxyde mais également sous forme de carbonate, particulièrement insoluble . Ce
+traitement, à lui seul, n'est pas suffisant pour conférer aux membranes cationiques du
+module d'électrolyse du chlore-soude une durée de vie intéressante, il est jumelé avec un
+traitement sur résines en aval . Dans le cas de l'EED du sulfate de sodium, il n'est pas
+certain qu'il soit absolument indispensable de descendre à des concentrations en calcium
+de l'ordre de la vingtaine de µg/1 , c'est pourquoi les performances du traitement par
+précipitation seule seront évaluées . De plus, on procédera à une vérification des effets de
+ce traitement, sur le banc d'essais de vieillissement "PIVERT", au cours d'un essai de
+longue durée (800 heures).
+Effluent épuré
+	
+Effluent
+	
+D
+	 Na2SO4 - 200 g/l
+	
+100 g/l
+	
+c
+	
+Na2SO4
+	
+(Cal - 60 - 200 ppm
+ED avec des
+membranes classiques
+concentration de l'effluent
+	
+1 JY
+Na2SO4 à = 200 g/1 contenant une dizaine de ppm de calcium
+H 2 SO4
+Na2SO4à ' 100 9/1
+	
+NaOH à recycler dans l'ED
+EED
+E	 ~
+régénération de l'acide et de la base
+Poste de précipitation -
+t1
+	
+filtration du calcium
+figure 3 :
+	
+combinaison ED \ Précipitation \ EED
+6• scénario 4
+L'élimination du calcium doit se faire par couplage de deux techniques : les
+membranes permselectives aux cations monovalents et les résines échangeuses d'ions.
+• scénario 5
+Le prétraitement de la saumure en chlore-soude est appliqué au sulfate de sodium;
+autrement dit, le concentre issu de l'ED est amené à pH basique, le calcium contenu
+est précipité puis filtré; le filtrat est passé sur résine échangeuses d'ions avant d'être
+envoyé en EED après un éventuel réajustement du pH.
+Les critères de choix
+Deux critères essentiels vont définir la solution à retenir :
+0
+	
+la concentration résiduelle en calcium après traitement, c'est le critère technique;
+0
+	
+le surcoût entraîné par ce traitement, c'est le critère économique.
+Les essais menés sur pilote permettent d'avoir une idée assez précise de la performance
+technique des différentes solutions . Toutefois, on ne trouvera dans ce rapport que des
+éléments du surcoût entraîné par les traitements étudiés sur nos installations et qui n'ont pas
+fait l'objet d'une optimisation préalable .
+7L'électrodialyse à
+membranes cationiques
+permsé'lectives aux cations
+monovalents
+8RAPPEL DU PRINCIPE D'ÉLECTRODIALYSE
+L' électrodialyse (ED) est un procédé permettant, sous l'effet d'un champ électrique,
+d'extraire par migration au travers de membranes échangeuses d'ions, les espèces ioniques
+d'une solution aqueuse (figure 4).
+En alternant des membranes perméables aux anions et des membranes perméables aux cations
+entre deux électrodes, on réalise un transfert d'espèces ioniques d'une solution vers une autre
+solution : les anions et les cations migrent du diluat (de plus en plus pauvre en espèces
+ioniques au cours de l'ED) vers le concentre (de plus en plus riches en ions).
+Deux grandeurs permettent d ' évaluer la performance globale de l'électrodialyse : le
+rendement faradique et le transfert d'eau du diluat vers le concentra (leur définition est
+rappelée dans l'annexe I).
+MA membrane penmsélective aux anions
+MC membrane pennsélective aux cations
+Effluent épuré
+Effluent concentré
+0
+	
+0MA
+	
+MC
+	
+MA
+	
+MC
+	
+MA
+	
+S0 2
+	50 2
+	
+4
+Nâ
+	
+4
+Na+
+	
+2'
+	
+2 1
+	
+Ca
+	
+Ca
+	
+DII.UAT
+	
+DII.UAT
+ANODE
+	
+/
+	
+CONCENTRAT
+	
+à
+	
+CONCENTRAT CATHODE
+Effluent à traiter
+figure 4 :
+	
+Principe de l'électrodialyse, cas d'un effluent contenant du sulfate de sodium
+9Les membranes échangeuses d'ions sont perméables à un seul type d'ions positif ou négatif.
+Ceci est lié à la charge positive ou négative de ces ions et non à leur valence . Autrement dit,
+une membrane cationique est perméable aussi bien aux cations monovalents qu'aux cations
+divalents ou trivalents. Dans le cas qui nous intéresse, hormis la concentration du sulfate de
+sodium dans le circuit concentra, on observe également une concentration du calcium
+initialement contenu dans l'effluent.
+Le passage de calcium Cat+ (ion divalent) peut être limité par l'utilisation de membranes
+cationiques permsélectives aux cations monovalents (figure 5).
+MA
+	
+membrane permsélec tive aux anions
+MCM membrane permsélecti ve aux cations monovalents
+Effluent épuré
+	
+Solution concentrée de Na2 SO4 ne
+contenant pas ou peu de calcium
+0 MA
+	
+MCM
+	
+MA
+	
+MCM MA 0
+sot	so t4 +
+	
+4
+	
++
+Na
+	
+Na
+z`
+	
+z•
+Ca
+	
+Ca
+ANODE
+	
+DILUAT
+	
+DII.UAT
+	
+CONCENTRAT
+	
+À
+	
+CONCENTRAT CATHODE
+Solution de Na2 SO4
+dépourvue de calcium
+figure 5
+	
+Électrodialyse avec des membranes permsélectives aux cations
+monovalents . Cas d'un effluent chargé en sulfate de sodium
+10
+LES MEMBRANES ÉCHANGEUSES D'IONS PRÉSENTANT UNE
+PERMSELECTIVITE PREFERENTIELLE AUX IONS MONOVALENTS
+Ces membranes ont été développées essentiellement dans le cadre de la concentration d'eau
+de mer par électrodialyse; pour concentrer de façon sélective les ions monovalents Nat et Cl-
+préférentiellement aux ions divalents Ca2+ et S042- .
+La permsélectivité préférentielle aux cations monovalents est obtenue en recouvrant la
+surface de la membrane échangeuse de cations (contenant des groupes fonctionnels
+anioniques) avec une très fine couche de polycations.
+De façon simplifiée, la couche de polycations est maintenue sur la surface de la membrane
+par des interactions de type ionique entre les groupes fonctionnels et les sites ioniques du
+polycation. La membrane "composite" ainsi obtenue peut être plus ou moins rigide suivant le
+taux de sites cationiques de la couche de polycation participant à la formation du complexe
+polyionique avec les groupes fonctionnels anioniques de la membrane cationique classique
+(cf. figure 6 et 7) .
+~ polycation
+so - --k,
+S03-
+	
++3 • . N
+I
++S03 . . N
+S03 .. N+
+S03 .. N+
+S03 . . N+
+SOI . n
+N+
+SO3 . .
+N+
+S03 .
+. N+
+SO, . . ~+
+Figure 6 : Exemple schématique des interactions entre la couche de
+polycations et la surface de la membrane classique : tous les sites
+du polycation participent à la formation du complexe polyionique,
+on obtient une structure linéaire, souple.
+membrane échangeuse de cations
+S03 . . H+ N+
+SO., --N
++N*+S03
+S03
+--H
+. . H+
+	\+
+S03 • . H+ N+~
+S03 . . H+
+	
+N+
+SO, . . N+~
+. . H+'--, N+S03
+S03 . . H+
+	
+N+
+S03 . . H+ N+/
+membrane échangeuse de cations
+11
+Figure 7 : Exemple schématique des interactions entre la couche de
+polycations et la surface de la membrane classique : 201/o
+seulement des sites du polycation participent à la formation du
+complexe, la structure obtenue est rigide.
+La permsélectivité préférentielle aux cations monovalents est d'autant plus grande que la
+structure est ramifiée (cf. figure 8), sans toutefois être trop rigide.
+membrane échangeuse
+de cations
+Figure 8
+	
+Mécanisme de la permsélectivité préférentielle aux cations
+monovalents
+Les cations divalents migrent vers la membrane permsélective aux cations sous l'effet du
+champ électrique, mais ne peuvent la traverser du fait de la répulsion exercée par la couche de
+Na2+Ca
+, 2+Ca
+Na
+2+Ca
+2+Ca
+polycations .
+12
+Bien que les membranes élaborées présentent une bonne permsélectivité préférentielle aux
+cations monovalents, celle-ci est reconnue insuffisante2 pour obtenir directement avec ces
+seules membranes un sel suffisamment pur (absence de calcium principalement) pour
+l ' industrie du chlore-soude à membrane où, l'on préconise une concentration totale en
+calcium en deçà vingt microgrammes par litre3 .
+2 Yukio MIZUTANI, journal of membrane Science, 54,1990,233-257.
+3 Y. OGATA, T. KOJIMA, S . UCHIYAMA, M . YASUDU, F. HINE, Journal of Electrochemical
+Society, Vo1.136, N°1, 1989, 91-95 .
+13
+ESSAIS D'ÉLECTRODIALYSE
+1)
+	
+Conditions expérimentales :
+Les essais ont été effectués sur un pilote d'électrodialyse de laboratoire TS-2-5-D-P de
+technologie EURODIA. Ce pilote, initialement conçu pour travailler en trois ou quatre
+compartiments, a été modifié au niveau hydraulique pour fonctionner en électrodialyse à deux
+compartiments . Les membranes testées sont de TOKUYAMA SODA dont EURODIA est le
+distributeur en France.
+Deux membranes cationiques - CMX et CMS - dont une est sélective aux cations monovalents
+(CMS) ont été testées à température ambiante à deux densités de courant. Les conditions
+expérimentales, suivant un plan d'expériences à deux niveaux et deux paramètres, sont
+résumées dans le tableau 9.
+N° essai Membranes * Densité de
+courant
+(mA/cm2)
+Durée de l'essai
+(min.)
+Débit (1/h)
+(diluat et
+concentrat)
+1 AMX/CMS 90 60 150
+2 AMX/CMS 45 120 150
+3 AMX/CMX 90 60 150
+4 AMX/CMX 45 120 150
+Tableau 9 : Plan d'expérience à deux niveaux, matrice d'expérience
+* Les membranes anioniques AMX et cationiques CMS et CMX sont fabriquées par Tokuyama
+Soda, leurs spécifications figurent dans l'annexe H.
+L'effluent réel chargé en sulfate de sodium (110 g/l de Na2SO4) de la société LABSO Chimie
+Fine de Compiègne, est envoyé dans le circuit diluât de l'empilement d'électrodialyse . Les
+espèces ionisées Na+, Cal+ et SO42- essentiellement, migrent de ce circuit vers le circuit
+concentrat où évolue une solution synthétique de sulfate de sodium, initialement dépourvue de
+calcium.
+14
+Des essais complémentaires se sont avérés nécessaires pour vérifier la reproductibilité des
+résultats ainsi que l'efficacité des membranes cationiques sélectives aux cations monovalents
+dans le cas d'un effluent dopé en calcium : l'effluent réel pris pour cette étude était à cette
+date relativement pauvre en calcium, 20 mg/l, alors que l'on peut s'attendre à des
+concentrations beaucoup plus élevées de l'ordre de 100 mg/1 liées à l'utilisation d'eau de
+lavage plus calcaire 4. Neuf essais au total ont été réalisés.
+Les caractéristiques des deux empilements employés sont compilées dans le tableau ci-
+dessous :
+Nombre de cellules élémentaires
+	
+1
+	
+10
+Surface effective d'une membrane
+	
+I
+	
+200 cm2
+Surface totale de chaque type de membrane
+	
+0,2 m2
+Anode
+	
+DSA
+Cathode
+	
+1
+	
+Inox
+Le rapport initial du volume du diluat (15 1) sur celui du concentrat (1,5 1) est égal à 10 . Ce
+rapport assure un apport de sulfate de sodium suffisant par le diluat dans un fonctionnement
+de type batch, sans qu'apparaisse la baisse de rendement en courant généralement constatée
+quand la différence de concentration entre le diluat et le concentrat est trop importante.
+Les deux circuits diluat et concentrat sont refroidis par circulation dans des réfrigérants à la
+sortie de l'empilement. L'échauffement des solutions par effet Joule lié au fonctionnement
+des pompes, et à l'établissement d'une différence de potentiel aux bornes de l'empilement, y
+est ainsi neutralisé . La température, bien que surveillée, n'est pas ici un paramètre de
+fonctionnement (on ne peut la fixer faute de dispositif adéquat sur le pilote d'étude) mais une
+variable d'état (conséquence).
+4 Pour se donner une idée de la teneur en calcium d'une eau de ville, nous avons analysé
+celle du réseau de Saint Denis, elle contient environ 100 mg/1 de calcium .
+15
+2) Suivi des essais d'électrodialyse :
+Les paramètres fixés sont :
+0
+	
+l'intensité I du champ électrique imposé aux bornes de l'empilement;
+0
+	
+les débits du diluat et du concentre (=1501/h);
+0
+	
+les volumes initiaux du diluat (151) et du concentrat (1,51);
+0
+	
+la teneur initiale en calcium du diluat dans le cas d 'un dopage en calcium;
+0
+	
+la teneur initiale en sulfate de sodium dans le circuit concentrat (~ 100 g/l pour se placer
+dans de bonnes conditions de transfert).
+Les valeurs des variables dont l'évolution au cours du temps a été suivi sont
+0
+	
+la tension U aux bornes de l'empilement;
+0
+	
+la température T du concentrat (le volume du circuit diluat étant beaucoup plus important,
+la variation de température est faible);
+0
+	
+la composition des diluat et concentrat, composition en Na+, Cal+, Mg2+ et SO42',
+mesurée par chromatographie ionique sur des échantillons prélevés sur les deux circuits
+diluat et concentre
+0
+	
+le volume des deux cuves diluat et concentre
+3) Résultats :
+Le tableau 10 récapitule l'ensemble des essais . Certains essais font l'objet d'une fiche détaillée
+donnée dans l'annexe III. Des courbes de comparaison des membranes cationiques CMX et
+CMS sont données dans l'annexe IV.
+De ces essais, dans l'intervalle des valeurs de densité de courant étudiées, nous pouvons tirer
+les observations suivantes :
+• La membrane cationique permsélective aux cations monovalents CMS offre
+effectivement une bonne exclusion des ions calcium par ra pport à la membrane
+cationique classique CMX. La concentration en calcium dans le concentrat reste toujours
+inférieure à 10 mg/1, même lorsque le diluat est riche en calcium (=100 mg/1) . Dans ce
+même cas, l'utilisation de membranes cationiques classiques CMX, a donné un
+concentrat final contenant 90 mg/1 de calcium .
+16
+• Le rendement en courant en sulfate de sodium est indépendant de la nature de la
+membrane cationique utilisée, qu'elle soit permsélective aux cations monovalents ou
+non. Ce rendement est de 85- %.
+•
+	
+Le transfert d'eau observé du diluat vers le concentra, phénomène non désiré puisqu'il
+abaisse la teneur en sel du concentre est invariant dans les conditions étudiées . Il est
+d'environ 1 litre par équivalent transféré et par m2 de membrane.
+•
+	
+Le transfert de calcium à travers la membrane cationique n'est pas ou très peu affecté
+par la densité de courant appliquée (entre 45 et 90 mA/cm 2).
+• Le transfert de calcium est d'autant plus important que l'effluent initial est riche en
+calcium. en comparant des concentrations de 20 et 100 mg/l. Ce phénomène est
+d'autant plus marqué pour la membrane cationique classique CMX et largement
+atténué dans le cas de la membrane cationique sélective CMS.
+Remarques diverses
+0 Il est tout à fait normal que le rendement en courant en calcium soit toujours très faible
+comparé à celui du sodium (0,02% environ pour les membranes cationiques sélectives
+CMS et 0,2% environ pour les membranes cationiques classiques CMX) puisque les ions
+calcium Ca2+ sont en quantité très largement inférieure aux ions sodium Na+. Le
+rendement faradique en cations Mz+ traduisant la quantité d'électricité ayant servi à
+transporter cet ion à travers la membrane cationique, on pouvait prévoir ce résultat : les
+ions sodium étant largement prépondérants dans le diluat (fraction molaire [Na+] / [Ca2+]
+= 600), ceux-ci ont statistiquement une probabilité plus forte de traverser la membrane
+que les ions calcium.
+Par ailleurs, d'après la littérature s , à concentrations identiques, le flux à travers une
+membrane cationique classique des ions Ca2+ est toujours inférieure à celui des ions Na+
+bien que les rayons ioniques soient voisins (0,099 et 0,097 nm respectivement), ce résultat
+est attribué à l'influence de la valence du cation.
+5 T.Xue, R .B.Longwell, K .Osseo-Asare, journal of Membrane Science, 58 (1991), pp175-189
+17
+0 Le rendement en sulfate de sodium décroît légèrement lorsque l'on passe d'une densité de
+courant de 45 à 90 mA/cm? en même temps que l'on observe un échauffement des
+solutions plus important . La puissance dissipée par effet Joule (RI2) est en effet d'autant
+plus élevée que l'intensité du courant I (ou densité de courant puisque la surface est
+constante) est importante, la résistance électrique R de l'empilement étant presque
+invariante aux variations de température près.
+0 L'influence de l'utilisation de membranes cationiques sélectives sur l'EED n'a pas été
+testée sur le pilote de vieillissement en EED. PIVERT. Ce choix a été guidé par le simple
+fait qu'il n'était pas envisageable de traiter par le petit pilote Eurodia, dans un temps
+raisonnable, suffisamment d'effluent pour obtenir 500 litres de solution concentrée à 200
+g/1 de sulfate de sodium.
+4)
+	
+Éléments d'estimation du coût de l'opération
+L'utilisation de membranes cationiques permsélectives aux cations monovalents, n'ajoute
+aucune étape supplémentaire dans le procédé, contrairement aux traitements par précipitation
+ou sur résines. Ceci n'est vrai que si l'effluent initial nécessite une préconcentration, et que la
+méthode retenue pour cette préconcentration est l'électrodialyse.
+L'électrodialyse à membranes cationiques sélectives, dans le but de concentrer le sulfate de
+sodium de l'effluent sans concentrer les impuretés cationiques multivalentes (calcium),
+implique uniquement un surcoût d'exploitation.
+Les membranes cationiques sélectives sont environ 25% plus chères que les membranes
+classiques, qu'elles soient anioniques ou cationiques (source Eurodia pour des membranes
+Tokuyama Soda) . La société Eurodia nous a fourni les prix suivants, en se basant sur l'achat
+d'une petite quantité de membranes (quelques m2), en février 1992 :
+• membranes classiques anioniques ou cationiques (AMX ou CMX) : 750 FFRS/m2
+• membranes cationiques sélectives aux monovalents (CMS) :
+	
+950 FFRS/m2
+Le remplacement des membranes cationiques classiques par des membranes sélectives dans
+l'électrodialyseur, représente donc un surcoût de 12.5% du poste "Achat de membranes" .
+Surface efficace / cellule unitaire :
+	
+0,020 m2
+Nombre de cellules unitaires :
+	
+10
+Membranes N° essai Durée Intensité T (°C) Volumes Concentrations (en
+	
+1 our Na+ et SO4-- et m I pour Ca++)
+(min) (A) diluai: concentrat diluai: concentrat
+initial final initial final [Na+]i [Na+]f [Ca++]i [Ca++]f [SO4--]i [SO4--]f [Na+]i [Na+]f [Ca++]i [Ca++]f [SO4--]i [SO4--]f
+AMX/CMS 1 65 18 23 15 13,6 1,5 2,6 37,5 28,9 20 20 78,6 63,6 32,9 77,6 10 116 66,5 145,3
+AMX/CMS 2 120 9 23 15 13,6 1,5 2,6 35,9 29,6 22 19 75,5 63,1 30,8 61,3 traces traces 63,6 136,8
+AMX/CMS 2 bis 120 9 27 15 13,7 1,5 2,6 38,1 29,3 23 23 76,3 60,2 30,8 71,2 traces traces 63,6 148,3
+AMX/CMX 3 60 18 23,5 15 13,8 1,5 2,5 37,5 30,1 47 42 75,4 58,4 33,8 71,8 0 51 67,0 149,4
+AMX/CMX 4 120 9 22 15 13,7 1,5 2,7 34,3 25,2 89 69 68,6 48,7 32,9 73,2 0 118 67,8 145,8
+AMX/CMX 5 60 12 27 15 14,3 1,5 2,2 32,8 29,3 96 85 71,2 56,4 30,2 63,9 0 90 63,7 126,0
+AMX/CMS 6 60 12 26 15 14,4 1,5 2,2 35,5 30,9 93 94 69,9 59,3 32,8 65,2 0 7 62,2 122,8
+AMX/CMS 7 45 18 26 15 14,3 1,5 2,3 34,9 29,0 100 100 72,9 60,6 30,5 60,5 0 10 62,9 128,4
+AMX/CMS 8 90 9 25 15 14,1 1,5 2,4 34,8 30,3 104 110 70,6 61,3 32,3 63,8 0 7 64,6 129,7
+Remarque :
+• Le calcium est considéré à l'état de traces lorsque l'analyse par chromatographie ionique ne permet pas de le quantifier (concentration en deçà de 5 mg/1)
+• La concentration en calcium dans certains concentrats de départ est dite nulle bien que ceci ne signifie en aucun cas le zéro mathématique mais des traces non quantifiables
+de façon précise (c'est uniquement pour pouvoir dresser le bilan)
+• Le magnésium ne se présente qu'à l'état de traces dans toutes les solutions étudiées (diluat et concentrat)
+• Membrane cationique CMS : membrane sélective aux cations monovalents
+• Membrane cationique CMX : membrane cationique classique
+Membranes N° essai Bilans Concentrations tlnales Rendements % Rendement Transfert d'eau
+Diluat Concentrat en Na2SO4 en sulfate de sodium en calcium D---&gt;C
+Na+ Ca++ SO4-- Na+ Ca++ SO4-- Concentrat Diluat cationi ue anionique litre 1/
+	
+m2%
+AMX/CMS 1 -169 -28 -314 152 287 278 227 92 91,1 79,6 0,20 1,1 0,95
+AMX/CMS 2 -136 -72 -274 113 ##### 260 196 92 73,3 80,8 **** 1,1 1,01
+AMX/CMS 2 bis
+-170 -30 -320 139 ##### 290 220 90 89,9 90,0 **** 1,1 0,91
+AMX/CMX 3 -149 -128 -328 129 128 273 221 90 83,4 84,7 0,09 1,0 0,88
+AMX/CMX 4 -171 -393 -364 148 319 292 221 75 96,0 90,6 0,24 1,2 0,99
+AMX/CMX 5
+-73 -225 -261 95 198 182 192 87 92,5 84,5 0,22 0,7 0,92
+AMX/CMS 6 -88 -44 -196 97 16 182 191 92 94,1 84,6 0,02 0,7 0,98
+AMX/CMS 7 -109
+-70 -227 95 23 204 188 90 81,7 84,2 0,02 0,8 0,97
+AMX/CMS 8 -95 -9 -195 101 16 208 194 92 87,6 86,0 0,02 0,9 0,98
+Tableau 10 : Récapitulatif des essais d'électrodialyse
+19
+Elimination du calcium par
+précipitation
+20
+PRÉTRAITEMENT PAR PRÉCIPITATION-MICROFILTRATION
+TANGENTIELLE DE L'EFFLUENT CONCENTRE
+1)
+	
+Où se place le prétraitement dans la régénération de l'acide et de la base à partir
+de l'effluent salin?
+effluent épuré
+Effluent -~ ED
+effluent concentré -►
+soude + Na 2CO3
+précipitation
+solution avec
+précipité fin
+en suspension
+microfiltration
+tangentielle
+rétentat
+(volume rétentat =volume perm6at11000)
+2)
+	
+En quoi consiste ce prétraitement?
+L'effluent concentré par électrodialyse (pH=6) est amené à pH=11,5 avec de la soude : le
+calcium précipite en partie sous forme d'hydroxyde suivant
+Cat+	+
+	
+OH	 &gt; Ca(OH)2
+L'ajout d'un sel de carbonate (ici le carbonate de sodium Na2CO3) permet de précipiter le
+carbonate de calcium particulièrement insoluble.
+Cat+	+
+	
+C032- *	 &gt; CaCO3
+C032 - est la forme prépondérante en solution aqueuse à pH &gt;_ 11,25
+	
+puisque les
+constantes de dissociation de l'acide carbonique sont pKAl = 6,17 et pKA2 = 10,25
+(Handbook of Chemistry and Physics, 63rd Ed. 1982-1983).
+acide
+EED
+base
+21
+Remarque : L'addition de carbonate de sodium directement à l'effluent concentré
+impliquerait une trop grande quantité de carbonate car une partie
+importante serait consommée pour amener le pH à un niveau suffisamment
+basique où la précipitation peut avoir lieu.
+Le prétraitement est mené à environ 40°C, température à laquelle le sulfate de sodium
+contenu dans l'effluent concentré (=200 g/1) ne risque pas de précipiter.
+3)
+	
+Efficacité escomptée du prétraitement
+La solubilité du carbonate de calcium, en l'absence d'autres espèces chimiques est :
+s = 0,015 g/1 CaCO3 à 25°C **
+soit s = 6 mg/1 de calcium
+Le précipité CaCO3 étant très fin (taille de l'ordre de quelques micromètres), celui-ci a
+tendance à rester en suspension d'où l'inefficacité très probable d'une filtration classique
+frontale sur cartouche de filtre montée en ligne, dont les pores avoisinent au mieux 5 gm . Les
+filtres classiques peuvent toutefois descendre jusqu'à 1 gm mais au prix d'un colmatage très
+rapide. C'est pourquoi l'on a retenu une microfiltration tangentielle sur membranes
+céramiques mises en oeuvre en modules multicanaux, dont la taille moyenne des pores est de
+1,4 gm.
+L'efficacité escomptée de la microfiltration tangentielle est proche de 100% étant donnée la
+marge de sécurité prise quant à la taille des pores par rapport à celle du précipité . Par
+conséquent, la quantité résiduelle attendue du calcium après prétraitement par précipitation-
+microfiltration est fixée par la solubilité du carbonate de calcium à savoir = 6 mg/1 de
+calcium.
+Remarque Toutes les impuretés cationiques contenues dans l'effluent (A1 3+
+essentiellement ) susceptibles de précipiter sous forme d'hydroxyde ou de
+carbonate seront en grande partie éliminées par ce prétraitement.
+** Handbook of Chemistry and Physics, 63 rd Ed. 1982-1983
+22
+4) Description des essais
+Après des essais prometteurs de precipitation-microfiltration au laboratoire, une opération pilote
+a été menée sur 1300 litres d'effluent concentré (préconcentré sur pilote Corning P20) contenant
+environ 40 mg/1 de calcium.
+L'ajustement de pH (de 6 à 11,5) a été réalisé à l'aide du pilote de neutralisation GERMAINE, à
+40°C, en ajoutant à ces 1300 1 d'effluent, environ 4 litres de soude 10 N . Le calcium, en
+partie converti sous forme d'hydroxyde insoluble, est alors précipité sous forme de carbonate
+par l'addition de 200 grammes de carbonate de sodium monohydraté (Na2CO3,H2O).
+Le mélange est ensuite filtré par microfiltration tangentielle (à l'aide des pilotes du site des
+Renardières) à 40°C, sur membranes céramiques 1,4 gm montées en modules multicanaux de la
+société SCT (Société des Céramiques Techniques) . Le débit de perméat était de 9501/h .m2 .
+5) Résultats du prétraitement
+Le perméat obtenu contient 6 mg/l de calcium (analyse par absorption atomique) . La
+composition en Na2SO4 n'a pas été affectée, elle est restée à 200 g/1.
+Volume initial d'effluent à traiter
+Volume de perméat recueilli
+Volume de rétentat final
+Extrait sec du rétentat final°
+Concentration en calcium du perméat
+1300 litres
+: 1250 litres #
+2 litres
+77% en masse
+. 6 mg/l
+Tableau récapitulatif des résultats de la précipitation-microfiltration tangentielle
+l'extrait sec est déterminé par évaporation de l'eau contenue dans une masse connue
+d ' échantillon
+# Le bilan volumique est déficitaire du fait des pertes inévitables dues aux transvasements
+divers pour les besoins des manipulations
+23
+Cet effluent concentré en sulfate de sodium sur lequel on a effectué un abattage de calcium est
+envoyé dans le banc d'essais de vieillissement en électro-électrodialyse PIVERT, afin d'évaluer
+l'impact de cette épuration partielle sur la tenue de la membrane cationique en EED, où le
+calcium est susceptible de précipiter.
+L'effluent (pH= 11,5) est auparavant ramené à pH neutre afin de se prémunir contre d'éventuels
+effets néfastes sur la membrane anionique qui a toujours fonctionné en milieu acide (pH=1 à 6).
+Après 750 heures de fonctionnement, la membrane cationique présente un léger film de dépôt
+blanc (sels de calcium essentiellement) sur sa face cathodique . Le dépôt, bien que non quantifié,
+est largement moins important que dans le cas d'un effluent non traité par précipitation . On peut
+espérer par un traitement "simple" de précipitation-microfiltration tangentielle multiplier la durée
+de vie de la membrane cationique par 2 ou 3 (1600 à 2400 heures) . Cette durée de vie de la
+membrane cationique reste incompatible avec une application industrielle.
+Remarque : L'effluent, envoyé dans le compartiment central en EED, s'acidifie très
+rapidement au cours du temps du fait de la fuite en protons à travers la
+membrane anionique (imparfaitement imperméable aux cations et plus
+particulièrement aux cations de petite taille comme les protons) . On aurait pu
+envisager d'envoyer directement le perméat issu de la microfiltration
+tangentielle en EED sans réajustement de pH; mais la membrane anionique
+ayant déjà accumulé 5000 heures de fonctionnement en milieu acide et 5
+démontages-remontages, donc étant fragilisée, il aurait été risqué de la mettre
+en contact avec une solution basique . En cas de rupture de la membrane
+anionique en cours d'essai (de 800 heures), il aurait été très difficile d'en
+connaître la cause exacte . Soit un pH anormalement basique avait
+endommagé la membrane anionique, soit celle-ci avait atteint sa durée de vie
+normale .
+24
+6)
+	
+Éléments d'estimation du coût de l'opération
+La précipitation peut être menée dans un simple réacteur efficacement agité, muni d'une
+sonde de pH et de température . Les matières premières nécessaires à cette opération sont :
+• 3 litres de soude NaOH ION;
+• 130 grammes de carbonate de sodium Na2CO3
+pour traiter 1 m 3 d'effluent concentré de pH initial égal à 6, et contenant 50 mg/1 de calcium.
+La filtration demande un équipement de microfiltration tangentielle, avec des membranes
+céramiques de 1,4 µm de diamètre moyen de pores .
+25
+Traitement sur résines
+26
+GÉNÉRALITÉS SUR LES RÉSINES
+Le calcium qui détruit les membranes cationiques est un problème bien connu des industriels
+travaillant dans le domaine du CHLORE-SOUDE . Il a été résolu en prétraitant la saumure sur
+résines avant électrolyse.
+1)
+	
+Rappel sur la fabrication électrolytique du Chlore et de la Soude
+L'électrolyse d'une solution de chlorure de sodium pour produire du chlore gazeux et de la
+soude est la seule technique économiquement possible actuellement.
+Trois types de cellules électrochimiques sont utilisées pour cette production :
+* les cellules à cathode de mercure,
+* les cellules à diaphragme,
+* les cellules à membrane échangeuse d'ions.
+Pour chaque type de cellule, la saumure (solution de chlorure de sodium concentrée) doit
+présenter un degré de pureté, notamment en calcium, adapté à la technologie.
+Pour les cellules à cathode de mercure la concentration de la saumure doit être de l'ordre de
+10 mg/1 en calcium (à comparer aux 300 g/1 en chlorure de sodium).
+Pour les cellules à diaphragme une concentration en calcium de 3 à 5 mg/1 est vivement
+conseillée, mais il est bien connu qu'une concentration inférieure allonge la durée de vie des
+diaphragmes.
+Quant aux cellules à membrane échangeuse d'ions, il est absolument nécessaire de les faire
+travailler avec une saumure ne contenant pas plus de 20 µg/1 de calcium pour préserver le plus
+longtemps possible les membranes.
+S'il est possible d'abaisser la concentration en calcium d'une saumure vers 2 à 10 mg/1 via un
+traitement chimique suivi d'une filtration fine, la concentration de 20 µg/1 ne peut-être obtenue
+que par un traitement sur résines échangeuses d'ions .
+27
+2)	Quelques notions sur l'échange d ' ions
+L'échange d'ions est un procédé dans lequel les ions d'une certaine charge contenus dans une
+solution (par exemple des cations) sont éliminés de cette solution par adsorption sur un matériau
+solide (la résine échangeuse d'ions), pour être remplacés par une quantité équivalente d'autres
+ions de même charge émis par le solide . Les ions de charge opposée ne sont pas affectés.
+L'échangeur d'ions est un sel, un acide ou une base, solide et insoluble dans l'eau, mais
+hydraté, c'est-à-dire gonflé d'eau comme une éponge . La teneur en eau d'un matériau
+apparemment sec peut-être de plus de 50% de sa masse totale . Les réactions d'échange se
+déroulent dans cette eau, dite eau de gonflement ou d'hydratation, à l'intérieur de l'échangeur.
+3)	Épuration de saumure sur résine
+Notre but n'est pas de regarder en détail tous les types de résines existantes . La seule
+application présentant un intérêt pour nous actuellement est l'épuration en calcium des saumures
+utilisées dans les cellules à membrane pour la production simultanée de chlore et de soude . A
+l'anion près (sulfate au lieu de chlorure) nos saumures traitées par EED ont des caractéristiques
+identiques. On peut penser, a priori, qu'on peut les prétraiter avant électrolyse de la même
+façon.
+Les résines utilisées pour la décalcification de saumures (plus couramment appelée
+adoucissement de saumures) sont de type chélatantes, c'est-à-dire qu'elles retiennent
+préférentiellement les ions multivalents comme le calcium et le magnésium par rapport aux ions
+monovalents comme le sodium . Ces résines remplacent d'ailleurs généralement les ions
+adsorbés par des ions sodium.
+L'utilisation de ces résines échangeuses d'ions se fait industriellement en trois phases :
+- le service normal ou phase de saturation,
+- la régénération,
+- la conversion (pour le cas des résines sous forme de sel de sodium).
+La première phase est la période de travail proprement dite : les ions multivalents (comme le
+calcium) sont fixés sur la résine en faisant percoler la saumure à traiter au travers d 'un lit de
+cette résine .
+2s
+La seconde phase consiste à séparer les ions multivalents de la résine en la rinçant avec une
+solution d'acide (chlorhydrique la plupart du temps) . Les cations entraînés par l'acide sont
+remplacés par des ions H +. On dit que l'on régénère la résine.
+La troisième phase permet de ramener la résine dans son état initial . On rince la résine avec
+de la soude, après un rinçage à l'eau, pour remplacer les ions H + par des ions sodium.
+29
+,
+ESSAIS SUR LES RESINES
+But de nos essais
+Dans un premier temps seule la première phase nous intéressera . Nous essayerons de produire
+au laboratoire des petites quantités de sulfate de sodium à 200 g/1 épuré en calcium (teneur
+résiduelle visée : &lt;_ 20 µg/1) à partir d'une saumure traitée chimiquement . La concentration en
+calcium de cette saumure est, après filtration, de l'ordre de quelques mg/1 . Si les résultats sont
+bons nous traiterons, avec la résine ayant donné les meilleurs résultats, 500 litres d'effluents
+chargés en sulfate de sodium à 200 g/l . C'est la quantité minimum nécessaire pour tester
+l'effet de ce traitement sur la durée de vie de la membrane cationique de la cellule de
+vieillissement du pilote PIVERT.
+Il existe plusieurs marques et plusieurs fabricants de résines chélatantes . Nous avons contacté
+trois fabricants de résines. Deux d'entre eux (RHOM &amp; HAAS et BAYER) nous ont envoyé
+gratuitement des échantillons pour faire nos essais.
+Normalement l'épuration en calcium de nos saumures de sulfate de sodium ne devait pas
+présenter de difficultés majeures bien que la présence de sulfate dans la saumure puisse
+entraîner des dysfonctionnements de la résine (le sulfate de calcium est très peu soluble).
+Les résines que nous avons reçues étaient accompagnées de fiches résumant les conditions de
+travail conseillées pour chaque résine. Nos conditions opératoires ont été choisies en
+conséquence.
+En fait, la plus grande difficulté de ces essais était de mettre au point la technique d'analyse
+appropriée pour vérifier les résultats (voir ANNEXE). Nous avons effectivement perdu
+beaucoup de temps sur cette partie .
+30
+Caractéristiques des résines
+1) "AMBERLITE ® IRC-718" de RHOM &amp; HAAS
+La résine AMBERLITE® IRC-718 a une forte sélectivité vis à vis des métaux lourds.
+Néanmoins ses groupements fonctionnels de type iminodiacétique lui permettent, quand les
+saumures ne sont pas trop chargées en métaux, d'être utilisée pour l'adoucissement des
+saumures.
+0
+I
+0
+	
+/CH2
+	
+~0- Na+
+CH 2 -N
+\cH2-C -- o_ Na+
+il
+0
+groupe fonctionnel iminodiacétique
+Les concentrations atteintes en calcium pour cette application sont inférieures à 50 µg/l.
+Cette résine est livrée sous la forme sodium. Sa capacité d'échange maximale est de 1,1
+équivalent par litre (éo) de résine humide, soit 22 g/1 (de résine humide) de calcium.
+Compte tenu de sa forte affinité pour les ions métalliques cette résine demande pour être
+régénérée une quantité d'acide plus importante qu'un échangeur de cations faiblement acide
+conventionnel. Même si la régénération n'est pas testée dans cette étude, nous ne devrons pas
+perdre de vue ce genre de problème quand nous choisirons la résine.
+2) "AMBERLITE ® IRC-76" de RHOM &amp; HAAS
+La résine AMBERLITE® IRC-76 est une résine échangeuse de cations faiblement acide . Elle
+comporte des fonctions carboxyliques (-000H) fixées sur une matrice acrylique macroporeuse.
+Cette résine élimine les cations liés à l'alcalinité de l'eau, en particulier la dureté temporaire . Le
+seuil de concentration atteint en calcium n'est pas précisé, mais cette résine présente l'avantage
+de pouvoir être régénérée facilement avec de l'acide sulfurique.
+Sa capacité d'échange est élevée : 4 éq/1 soit 40 g/1 de calcium. cette résine est livrée sous forme
+hydrogène, mais elle peut être convertie sous forme sodium .
+31
+3) "DUOLITE O C 467" de RHOM &amp; HAAS
+La résine DUOLITE O C 467 a une structure macroporeuse dont le squelette polystyrènique,
+réticulé au divinylbenzène, comporte des groupes amino-phosphoniques . Elle se distingue des
+résines iminodiacétiques par une plus grande spécificité pour différents cations (notamment le
+calcium et le magnésium) et une plus grande stabilité des complexes formés avec les cations
+métalliques de faible masse atomique.
+0
+il
+	
+_
+Q
+	
+~CH2 P 0 Na+
+CH2- N
+	
+I~
+H
+	
+O_ Na+
+groupe fonctionnel aminophosphonique
+Elle est particulièrement recommandée pour l'adoucissement des saumures utilisées dans le
+domaine du chlore-soude . Les concentrations atteintes en calcium sont inférieures à 20 µg/1 . Le
+pH minimum de la saumure doit être égal à 3 pour piéger correctement le calcium.
+Sa capacité d'échange totale est égale à 1,4 éq/l, soit 28 g/1 de calcium . Cette résine est livrée
+sous forme sodium.
+4) "LEWATIT® TP 208" de BAYER
+La résine LEWATIT® TP 208 est un copolymère à base de styrène et de divinylbenzène
+comportant des groupes actifs iminodiacétiques . Elle est de même type que la résine
+AMBERLrMO IRC-718.
+Elle est généralement utilisée pour la décalcification de saumures ou pour l'adoucissement de
+l'eau. Elle capte préférentiellement les ions alcalino-terreux.
+La capacité et les performances de cette résine ne nous ont pas été précisées. Cette résine est
+livrée sous forme sodium .
+32
+5) "LEWATIT ® VP OC 1060 WS" de BAYER
+La résine LEWATIT® VP OC 1060 WS est un copolymère à base de styrène et de
+divinylbenzène comportant des groupes actifs phosphoniques . Elle est de même type que la
+résine DUO=@ C 467.
+Cette résine est utilisée pour les épurations fines (comme le traitement des saumures).
+La capacité et les performances de cette résine ne nous ont pas été précisées . Cette résine est
+livrée sous forme sodium .
+Les essais
+1)
+	
+Les paramètres
+De nombreux paramètres, autres que sa nature, peuvent faire varier l'efficacité d'une résine à
+retenir le calcium.
+a) le pH de la saumure traitée
+Après le traitement chimique d'une saumure, le pH est généralement compris entre 11 et 13.
+Bien que les résines acceptent des pH plus élevés, il est préférable, pour que la résine travaille
+correctement, que le pH soit compris entre 8 et 11 . Nous ajusterons le pH à 11 quand cela sera
+nécessaire.
+b) la concentration initiale en calcium et les impuretés
+Pour le calcium, il est préférable que sa concentration soit inférieure à 15 mg/l (soit environ
+0,75 méq/1 de calcium) . En fait c'est la concentration totale en méq/1 de toutes les espèces
+ioniques susceptibles d'être fixées sur la résine qui déterminera la concentration résiduelle en
+calcium de la saumure et la fréquence de régénération . Le magnésium et l'aluminium présents
+en solution joueront probablement sur la teneur résiduelle en calcium dans la saumure et sur
+la fréquence de régénération de la résine.
+c) la température
+Elle joue sur les équilibres ioniques entre la résine et la saumure. Généralement une
+température plus élevée que la température ambiante favorise le piégeage du calcium . La
+33
+température maximale de travail varie en fonction du type de résine de 70 à 120°C . Mais on
+peut considérer qu'une température de travail comprise entre 40 et 60°C sera adaptée à toutes
+les résines considérées.
+d) le débit de percolation
+Il est généralement exprimé en nombre de volumes de lit de résine par heure (BV/h) . Il joue
+lui aussi sur les équilibres ioniques dans la colonne de résine. Le débit conseillé varie de 8 à
+32 BV/h . Avec notre montage, nous pouvons travailler entre 10 et 25 BV/h (soit 5 à 12,51/h).
+e) la hauteur du lit de résine
+Seuls des essais permettraient de déterminer la hauteur optimale du lit de résine . Elle dépend
+bien évidemment de la sélectivité de la résine choisie . Comme valeur guide nous avons celle
+conseillée pour la résine DUOLITEO C 467 : 75 cm. Cette hauteur joue sur la fréquence de
+régénération de la résine.
+2)
+	
+Le montage
+Le montage comprend :
+- 2 réservoirs pressurisables de 4 litres . L'un est monté en amont de la colonne, l'autre en
+aval. La pressurisation du réservoir amont permet de pousser la saumure au travers de la
+colonne de résine vers le réservoir aval.
+- une colonne à double enveloppe de 500 ml et 25 cm de hauteur utile . La double
+enveloppe permet de réguler en température la colonne en cours d'essai-
+- un manomètre. Il contrôle la pression du réservoir amont et donc le débit de percolation
+de la saumure.
+- un bain thermostaté . Maintenu à 50°C il permet à la saumure de ne pas trop se refroidir
+pendant son passage dans la colonne.
+- 2 vannes trois voies. L'une est montée en amont, l'autre en aval de la colonne. Elle
+permettent d'effectuer des prélèvements dans les circuits sous pression du montage .
+34
+Pr6likyernew aval
+feloppe
+rnorr
+ent
+réservoir n o l	réser ir n°2
+Schéma de principe du montage utilisé
+35
+3) Conditions opératoires
+Nous avons comparé entre elles les conditions opératoires spécifiées pour chaque résine.
+Nous en avons tiré des conditions opératoires tenant compte de la zone de travail optimale des
+résines, mais aussi du matériel dont nous disposions pour ces essais de laboratoire :
+* La température choisie est comprise entre 45 et 50°C.
+* Notre colonne ne fait que 25 cm de hauteur utile, nous passons donc trois fois la saumure
+sur la résine.
+* Le débit de percolation est égal à 25 BV/h soit 12,5 1/h . Ce débit est assuré par une
+pressurisation à 2 bars du réservoir amont.
+* La saumure à traiter a été spécialement préparée (précipitation, décantation puis filtration)
+pour cette série d'essai. Le pH est égal à 11,25 . Nous ne l'avons pas ajusté pas à 11 pour
+éviter de repolluer la saumure avec un acide sulfurique qui contient du calcium. Cet écart
+de 0,25 unité de pH ne devrait pas jouer énormément sur les essais, les résines supportant
+toutes un pH= 14. Les concentrations avant traitement sont :
+- calcium : = 4 mg/1
+- magnésium : &lt; 10 mg/l (10 mg/1 est le seuil de concentration dosable par
+chromatographie ionique dans une saumure concentrée)
+- aluminium : non déterminée
+Nous testons donc toutes les résines avec les mêmes conditions opératoires . L'optimisation de
+ces conditions opératoires ne se fera qu'après avoir sélectionné la meilleure résine . Le critère
+de choix principal sera la concentration résiduelle en calcium de la saumure.
+4) Déroulement de l'essai
+* La saumure est préchauffée dans un Erlen Meyer à 45°C.
+* La colonne est remplie avec 500 ml de résine à tester
+* La double enveloppe de la colonne est alimentée par l'eau à 50°C du bain thermostaté.
+* La résine est rincée par 8 litres d'eau déminéralisée ultra pure .
+36
+* La colonne est entièrement vidée de l'eau qu'elle contient.
+* Le réservoir n°1 est rempli de saumure à 45°C.
+* Le réservoir n°1, en amont de la colonne, est pressurisé à 2 bar pour avoir le débit voulu de
+12,51/h . La saumure est poussée au travers de la colonne de résine vers le réservoir n°2,
+en aval de la colonne . Les prélèvements sont faits avant et après la colonne quand le niveau
+du réservoir n°1 est descendu de moitié . Le réservoir n°1 est entièrement vidé dans le
+réservoir n°2.
+* Le réservoir n° 1 est rincé plusieurs fois à l'eau déminéralisée.
+* Le réservoir n°2 prend la place du réservoir n° 1 et inversement.
+* Le réservoir n°2 est pressurisé à 2 Bar pour être vidé via la colonne de résine dans le
+réservoir n°1 . Même méthode de prélèvement pour ce deuxième passage de la saumure sur
+la résine.
+* Le réservoir n°2 est rincé plusieurs fois à l'eau déminéralisée.
+* Les réservoirs n°1 et 2 reprennent leur place initiale.
+* Le réservoir n°1 est pressurisé à 2 Bar pour être vidé via la colonne de résine dans le
+réservoir n°2. Même méthode de prélèvement pour ce troisième passage de la saumure sur la
+résine.
+* Les échantillons sont dosés dans les 24 heures suivant leur prélèvement pour éviter les
+problèmes de pollution ultérieures . Les flacons de verre ont été préféré à ceux en matière
+plastique pour les mêmes raisons.
+5)
+	
+Les résultats
+Mise en garde Les concentrations en calcium sont données à ± 3 µg/1 (la reproductibilité du
+dosage de traces de calcium par chromatographie ionique ne permet pas d'être plus précis).
+De plus, malgré toutes les précautions prises pendant les essais il est fort possible que certains
+échantillons aient été pollués . Nous ne devons tenir compte dans ce genre d'essais, que de
+l'ordre de grandeur obtenu par les analyses.
+37
+a) résines RHOM &amp; HAAS
+0
+	
+la résine DUOLITE C 467:
+Cette résine était sensée être la meilleure pour ce type d'application chez RHOM &amp; HAAS.
+Les résultats obtenus sont assez contradictoires . Alors que l'épuration semblait être
+insuffisante en cours d'essai, nous avons finalement obtenu une solution finale à une
+concentration acceptable (tableau n°11).
+Duolite C467
+concentration en Ça en µg/1
+1er passage amont = 4000
+aval 58
+2nd passage amont 85
+aval 60
+Sème passage amont 51
+aval 101
+bilan Pmale 10
+final perte en % Ça 99,7%
+Tableau n° 11
+Nous avons débuté les essais sur cette résine . Malgré les rinçages préalables il est possible
+que les circuits aient continué à relâcher du calcium . Compte tenu du résultat final les vannes
+de prélèvement pourraient être incriminées.
+Deux faits peuvent peut-être expliquer les fluctuations anormales des concentrations en
+calcium en sortie de résine :
+- La quantité de résine reçue était insuffisante pour remplir toute la colonne . Le débit de
+percolation était trop important (pertes de charges insuffisantes) la résine était soulevée et
+fortement agitée.
+- Au démontage nous nous sommes aperçu que le fritté inférieur de la colonne était
+partiellement déboîté. Si cela s'est fait avant l'essai il y a toute les chances pour que la
+saumure ait contourné ce fritté qui favorise une répartition hydraulique homogène dans la
+colonne. (Il va sans dire que le fritté a été remis en place avant de passer aux essais
+suivants .)
+38
+Dans un cas comme dans l'autre des chemins préférentiels devaient donc se former en
+diminuant fortement le temps de séjour de la saumure au contact de la résine . De ce fait les
+équilibres ioniques entre la résine et la saumure devait être trop perturbés pour que le calcium
+se fixe correctement.
+Nous devrons dès que possible refaire un essai avec cette résine avant de prendre la décision
+de l'écarter définitivement ou non.
+0
+	
+la résine AMBERLITE IRC-718 :
+Pour cette résine, les résultats attendus (50 µg/1) ont été obtenus, et même dépassés . La
+concentration résiduelle en calcium dans la saumure est inférieure à 20 µg/1 . Dès le deuxième
+passage sur la résine 99,5% du calcium a été piégé sur la résine (tableau n°12).
+Amberlite IRC-718
+concentration en Ça en µg/l
+ler passage amont -4000
+aval 36
+2nd passage amont 12
+aval 11
+3ème passage amont 9
+aval 12
+bilan finale 19
+final perte en % Ça 99,5%
+Tableau n° 12
+0
+	
+la résine AMBERLITE IRC 76:
+Pour cette résine les résultats sont plus que corrects . . . en calcium . Par contre elle capte mal le
+magnésium. Alors que la concentration résiduelle en calcium est de l'ordre des 20 µg/1 requis,
+la dureté totale de la saumure reste supérieure à 50 µg/1 (tableau n°13) . Même s'il participe
+apparemment dans une moindre mesure à la destruction de la membrane cationique, le
+magnésium à cette concentration est incompatible avec l'électrolyse à membrane.
+39
+Amberlite IRC-76
+concentration en Ça en concentration en Mg en
+lig/1 /1
+ler passage amont -4000 &lt; 10000
+aval 14 68
+2nd passage amont 13 59
+aval 23 100
+3èmepassage amont 34 138
+aval 19 125
+bilan finale 28 122
+final perte en % Ça 99,7%
+Tableau n° 13
+b) résines BAYER
+Il semble bien difficile de dire quelle est la meilleure de ces deux résines . Pour l'une comme
+pour l'autre le seuil de 20 µg/1 (aux incertitudes près) est atteint et ce dès le premier passage de
+la saumure sur ces résines.
+Il existe malgré tout un léger avantage, non quantifiable, pour la résine LEWATIT TP 208
+(tableau n° 14) .
+Résines BAYER
+concentration en Ça Lewatit 1060 WS Lewatit TP 208
+ler passage amont -5000 -5000
+aval 23 21
+2nd passage amont 25 21
+aval 24 29
+3ème passage amont 30 15
+aval 32 18
+bilan finale &lt; 5 &lt; 5
+final perte en % Ça 99,9% 99,9%
+Tableau 14
+Le troisième passage sur la résine LEWATIT VP OC 1060 WS a semblé faire plus de mal que
+de bien, mais ce n'est pas forcément imputable à la résine . Il ne faut presque rien pour polluer
+10 ml d'échantillon . Le résultat final semble le confirmer.
+40
+c) conclusions
+Les résines BAYER se sont révélées (de peu) les meilleures avec les conditions opératoires
+que nous avions choisies.
+Il semblerait que la supériorité des résines greffées avec des groupements
+aminophosphoniques (DUOLTTE C467 et LEWATIT OC 1060 WS) ne soit pas évidente en
+milieu sulfate de sodium. Les résines greffées avec des groupements iminodiacétiques
+(AMBERLTTE IRC-718 et LEWATIT TP 208) se comportent mieux que prévu . Elles passent
+sous le seuil des 20 µg/1 de calcium visé.
+Par contre la résine AMBERLITE IRC 76 (groupements carboxyliques) est à rejeter. Elle ne
+descend pas suffisamment la dureté totale de la saumure (trop de magnésium résiduel).
+Il est probable qu'une optimisation du traitement des saumures est possible, mais notre but au
+cours de cette première partie des essais n'était pas de le mettre au point, mais de vérifier sa
+faisabilité . Maintenant que c'est chose faite, il faut tester l'effet de ce traitement sur la durée
+de vie de la membrane cationique . La résine LEWATIT TP 208 sera celle utilisée pour
+vérifier cet effet.
+La résine choisie n'est pas forcément la meilleure, seule une étude un peu plus approfondie
+incluant la régénération pourra nous guider vers un choix apte à être industrialisé .
+41
+Suite des essais
+Nous avons déjà vu que le fait d'abaisser par un traitement chimique la concentration en
+calcium vers 10 mg/l multipliait par deux ou trois la durée de vie d'une membrane
+NAFION®.
+Un seul essai sur le pilote PIVERT devrait suffire pour estimer la durée de vie de la
+membrane cationique quand la saumure est traitée de façon adéquate sur résine échangeuse
+d'ions. Au besoin nous en ferons un second sans changer la membrane cationique pour avoir
+un dépôt observable.
+Malheureusement cette suite logique de nos essais devra être reportée à fin 1992 voire début
+1993, le temps pour nous de remettre en service tout le matériel nécessaire après notre
+déménagement aux Renardières.
+Nous pouvons malgré tout planifier la suite des opérations .
+42
+Comment traiter 500 litres de saumure
+Obtenir 4 litres de saumure à 20 µg/1 en calcium est une chose, en obtenir 500 en est une autre.
+Compte tenu de la capacité de la résine sélectionnée, les 500 ml qui nous ont été fournis
+gracieusement sont normalement suffisant pour traiter 500 litres de saumure à 10 mg/1 de
+calcium, sans pour autant saturer complètement la résine . La difficulté est de ne pas repolluer la
+saumure après traitement, comme on a pu le constater sur certains échantillons.
+Les sources de pollution sont nombreuses :
+* cuves et tuyauteries mal rincées à l'eau déminéralisée,
+* les volumes morts des pompes de circulation et des tuyauteries,
+* poussières tombant dans les cuves après leur rinçage,
+* calcium de l'eau de ville. ..
+Nous avions pensé dans un premier temps utiliser la cuve de neutralisation (GERMAINE).
+Avec ses régulations de température, de pH, et son agitation, il était facile d'ajouter un circuit
+prélevant la saumure dans la cuve, alimentant la colonne de résine et refoulant (à un autre
+endroit) dans la cuve. En laissant tourner suffisamment longtemps la saumure sur la colonne la
+concentration voulue en calcium devrait être obtenue.
+Le seul problème c'est le passage de GERMAINE à PIVERT. Il suffit de peu de chose pour
+que la saumure passe de quelques µg/1 à quelques mg/l de calcium.
+Nous ferons donc le traitement sur résine directement sur le pilote PIVERT de la façon
+suivante :
+La cuve et les circuits du centrolyte seront rincés abondamment à l'acide puis à l'eau
+déminéralisée pour éliminer au maximum le calcium résiduel des essais précédents.
+La cuve du centrolyte sera chargée avec 500 litres de saumure préalablement traitée
+chimiquement . Ce traitement devra comprendre la précipitation du calcium, la microfiltration
+tangentielle, puis la remise à pH entre 8 et 11 avec un acide sulfurique ultra pur (en calcium) .
+43
+Le pilote travaillera en mode manuel pour avoir les commandes de pompe et de chauffage
+indépendantes . Nous pourrons avoir ainsi une agitation permanente dans la cuve de centrolyte
+avec la pompe de circulation qui tournera à 100% sur le by-pass et un maintien à 45-50°C de la
+saumure.
+La saumure sera aspirée dans la cuve du centrolyte par une pompe capable de refouler à plus de
+2 bars (perte de charge constatée pour la colonne avec un débit de 12,5 1/h) . Cette pompe
+alimentera la colonne de résine qui devra être thermostatée à 50°C . La saumure sera rejetée dans
+la cuve du centrolyte. La résine AMBERLITE IRC 718 a une capacité normalement suffisante
+pour que ce traitement se fasse sans régénération.
+Cinq jours devraient suffire pour traiter toute la saumure, mais le traitement ne sera arrêté
+qu'après vérification par chromatographie ionique de la teneur résiduelle en calcium de la
+saumure.
+La colonne de résine sera désaccouplée du pilote avant de démarrer le batch de vérification de
+l'allongement de la durée de vie de la membrane cationique après traitement de la saumure sur
+résine.
+44
+Conclusions sur le traitement des saumures sur
+résines
+La décalcification des saumures, contenant du sulfate de sodium, avant électrolyse est
+possible avec les résines . Il nous reste à vérifier que la durée de vie de la membrane
+cationique est suffisamment rallongée avec ce prétraitement . Cet essai sera fait sur le pilote
+PIVERT dès que possible (après notre déménagement aux Renardières) avec la résine
+LEWATIT TP 208 de chez BAYER.
+L'optimisation des conditions d'utilisation de la résine sélectionnée et la mise au point de sa
+régénération peuvent être un bon sujet de stage si besoin est de développer ces points .
+45
+CONCLUSIONS
+46
+Le problème de précipitation d'hydroxydes sur la membrane cationique durant une électrolyse
+à membranes est un problème générique, rencontré chaque fois qu'une impureté présente dans
+la solution à traiter est susceptible de devenir insoluble en milieu basique comme c'est le cas
+des alcalino-terreux (calcium et magnésium)
+. Ces impuretés malheureusement sont contenues
+naturellement dans l'eau et dans de nombreux minerais, ce qui entraîne leur présence
+presqu'inévitable dans les effluents aqueux.
+Cette étude a montré qu'une épuration des éléments calcium et magnésium jusqu'à une
+concentration entre 5 et 10 mg/1 est insuffisante pour éviter un colmatage rapide (= 2000 h) de
+la membrane cationique lors de l'électrolyse à membranes.
+Pour obtenir ce premier abattage de calcium - magnésium, deux méthodes ont été évaluées :
+l 'utilisation de membranes cationiques permsélectives aux monocations et la séquence
+précipitation / filtration
+. Elles permettent d'obtenir toutes les deux le même taux résiduel en
+calcium (= 6 mg/1) si l'on part d'un effluent n'en contenant initialement pas plus de 100 mg/l;
+ce qui est le cas de l'effluent de l'usine de LABSO Chimie Fine à Compiègne.
+Les avantages et inconvénients des deux méthodes sont résumés dans le tableau Cl.
+Ce problème de calcium et de magnésium, bien connu dans l'industrie du chlore-soude à
+membranes, est résolu grâce à la séquence de prétraitement de la saumure : précipitation -
+filtration - passage sur résines échangeuses d'ions pour atteindre un taux résiduel de 20 µg/1.
+Cette méthode de traitement qui semblait être un traitement "de luxe" pour des effluents est
+cependant incontournable
+. Aujourd'hui, seule la technique des résines échangeuses d'ions,
+déjà commerciale, permet d'atteindre des niveaux d'impuretés aussi faibles . Nous avons
+montré lors de cette étude, la performance technique d'une telle méthode dans le cas précis
+d'une solution très chargée en sulfate de sodium, dans lequel on avait toutes les raisons de
+craindre une saturation prématurée voire un éclatement des sites actifs des résines, par
+précipitation du sulfate de calcium, particulièrement insoluble.
+Malheureusement le coût supplémentaire que ce type de traitement entraînera risque d'être un
+frein puissant au développement de l 'électro-électrodialyse pour traiter des effluents
+industriels qu'on peut encore rejeter simplement à la rivière . Mais la réglementation en
+matière de rejets salins semble vouloir se durcir, le ministère de l'environnement multiplie les
+actions visant tous les types de rejet industriel .
+47
+Actuellement, il peut être économiquement discutable de trouver un intérêt au prétraitement
+par résines d'effluents industriels salins comme le sulfate de sodium avant régénération par
+électro-électrodialyse . Cependant n'oublions pas le contexte actuel qui tend à faire diminuer la
+consommation mondiale de chlore . Un déséquilibre entre la consommation de soude et de
+chlore entrainera probablement le développement de techniques produisant de la soude sans
+chlore. La voie électro-électrodialyse du sulfate de sodium est déjà étudiée chez des
+industriels comme I .C.I..
+[Il existe bien sûr d'autres hypothèses, comme le remplacement de la soude par du carbonate
+de soude (SOLVAY semble plutôt jouer cette carte), mais tous les procédés ne pourront pas
+s'adapter au changement de réactif . Par contre la soude d'origine naturelle (fabriquée à partir
+du carbonate de sodium naturel) est un concurrent très sérieux pour la soude électrolytique .]
+Des industriels coincés entre des réglementations plus sévères et une augmentation constante
+du prix de la soude pourraient choisir de recycler leurs effluents salins (à la condition de
+trouver une cellule d'électrolyse "bon marché").
+Ce n'est évidemment pas pour demain, mais qui sait, après-demain . . .
+48
+Avantages Inconvénients
+Électrodialyse &lt; l'épuration en calcium est &lt; l'effluent initial ne doit (a
+avec des effectuée en même temps que priori) pas contenir plus de
+membranes la concentration de l'effluent 100 mg/1 de calcium
+cationiques lors de l'étape
+sélectives aux d'électrodialyse, le surcoût &lt; l'épuration ayant lieu
+monovalents entraîné en investissement est pendant l'électrodialyse, cette
+minimal méthode n'est valable que si
+l'effluent initial nécessite une
+concentration préalable (par
+électrodialyse)
+Précipitation et &lt; la méthode convient quelque &lt; l'opération demande deux
+Filtration soit la concentration initiale étapes supplémentaires
+dans l'effluent (surcoût élevé) : précipitation
+et microfiltration tangentielle,
+en plus de l'étape
+d'électrodialyse
+conventionnelle qui permet
+une préconcentration de
+l'effluent
+Tabieau Cl : Comparaison des deux méthodes permettant de réduire à 6 mg/1 le
+calcium dans l'effluent concentré.
+ANNEXE I
+Définition du rendement en courant et du transfert d'eau en ED
+II
+Le rendement en courant
+L'électrodialyse permet la migration d'espèces ionisées à travers des membranes échangeuses
+d'ions, sous l'action d'un champ électrique, d'une solution appelée le diluat vers une autre
+solution appelée le concentrat.
+Plusieurs flux tendent à s'opposer à ce flux d'ions du diluat vers le concentrat . (cf. tableau Al)
+Les membranes échangeuses d'ions séparent deux milieux de concentrations de plus en plus
+distantes au cours de l'électrodialyse Par la présence de ce gradient de concentrations, la
+migration des ions du milieu le plus concentré (concentrat) vers le milieu le plus dilué (diluat)
+est inévitable, c'est la diffusion naturelle . Par ailleurs, on observe également le phénomène
+d'osmose (migration du solvant, ici l'eau), qui tend à équilibrer les concentrations de part et
+d'autre des membranes . De plus, des courants de fuite peuvent être observés surtout quand les
+solutions élecrodialysées sont très conductrices.
+Phénomène
+	
+1 Origine du phénomène 1 Action sur le rendement
+transfert ionique
+	
+1 champ électrique
+	
+augmentation
+osmose
+	
+gradient de concentrations diminution
+diffusion
+	
+1 gradient de concentrations diminution
+courant de fuite
+	
+1 résistance électrique
+	
+diminution
+Tableau Al : les différents phénomènes observés en électrodialyse
+Le rendement en courant en cations M z+ (ou anions Xz-) représente la fraction du courant
+appliqué aux bornes de l'empilement, qui a effectivement servi à transférer ces ions Mz+
+(respectivement X z-) à travers la membrane cationique (respectivement anionique), du
+compartiment diluat vers le compartiment concentrat .
+III
+Il est calculé à partir de la quantité d'ions effectivement gagnés par le concentre et de la
+quantité d'électricité fournie pour effectuer ce transfert :
+Rdten courant _ z x n x-
+X X fi-
+avec 0 Rdt : rendement en courant exprimé en %;
+0 z :
+	
+valence de l'ion (1 pour Na+ , 2 pour Cat+ et S042-);
+0 n :
+	
+nombre de moles d'ions transférés du diluat vers le concentrat;
+0 F : nombre de Faraday = 96485 C.mol- 1 ;
+0 I :
+	
+intensité du courant exprimée en A;
+0 t :
+	
+durée exprimée en seconde pendant laquelle a été appliquée le courant
+d'intensité I . I x t représente la quantité d'électricité en Coulombs;
+0 m :
+	
+nombre de cellules élémentaires contenues dans l'empilement
+d'électrodialyse.
+Le rendement calculé tient par conséquent compte de la force motrice (application d'un
+champ électrique) mais aussi de toutes les forces d'opposition à cette force motrice,
+répertoriées dans le paragraphe précédent .
+IV
+Le transfert d'eau du diluat vers le concentrat
+Le transfert d'eau du diluat vers le concentrat, par osmose essentiellement, du fait du gradient
+de pressions osmotiques de part et d'autre des membranes, a tendance à équilibrer les
+concentrations (donc les pressions osmotiques) du diluai et du concentrai.
+Ce transfert d'eau est calculé à partir du gain de volume observé par le compartiment
+concentrat:
+TTD-+c
+= VCrw - VCj~ ;t;, ,
+x x
+avec 0 Tr C--&gt;D : transfert d'eau du Diluat vers le Concentrat en litre par équivalent
+transféré et par m2 de membrane;
+0 VCfinal : volume final du compartiment concentrat en litre;
+0 %nitial : volume initial du compartiment concentrat en litre;
+0 z :
+	
+valence de l'ion transféré;
+0 n :
+	
+nombre de moles d'ions transférés, z x n est le nombre d'équivalents
+transférés;
+0 S :
+	
+surface totale d'échange par type de membrane .
+vANNEXE II
+Spécifications des membranes échangeuses d'ions utilisées
+lors des essais d'électrodialyse
+VI
+Extraits du catalogue
+	
+Tome 2
+Membranes semi-perméables et Séparateurs électrochimiques
+R . Audinos et N . Blanc ENSC Toulouse
+FABRICANT TOKUYAMA SODA
+USAGE Electrodialyse
+TYPE Membrane échangeuse d'anions
+MARQUE NEOSEPTA
+CCCE AMX
+RCRf1£ feuille
+FORMAT 1,00 m x 1,00 m
+RBMRCŒ voir aussi la notice
+Propriétés structurales :
+NATURE CHIMIQUE
+ETAT PHYSIQUE
+CONFIGURATION
+GROUPE ECHANGEtJR D1 0N
+PRESENTATION
+Propriétés mécaniques :
+EPAISSEUR
+	
+0,16
+	
+0, 18 mm
+ECLATOMETRIE
+	
+4,5
+	
+5,5 bar
+REMARQUE
+	
+résistance mécanique élevée
+Propriétés physico-chimiques
+CAPACITÉ DECHANGE
+	
+1 , 4
+	
+1, 7 egg/kg de membrane sèche form Cl-
+EAU CONTENUE
+	
+0,25
+	
+0,30 g eawg membrane sèche forme CI- par NaC1 0,5 N
+Propriétés électriques :
+RESISTANCE SURFACIQUE
+	
+2,5 3,5 fLem2 dans NaCi 0,5 N à 25 °C
+NOMBRE DE TRANSPORT
+	
+0,98 minimum pour les anions (0,02 maximum pour les cations)
+organique
+poreuse ( micropore )
+armée
+cationique fort
+chlorure
+VII
+FABRICANT TOKUYAMA SODA
+USAGE Electrodialyse
+TYPE Membrane échangeuse de cations
+MARQUE NEOSEPTA
+CCDE CMX
+FaFVf £ feuille
+FORMAT 1,00 m x 1,00 m
+REAMFdCŒ voir aussi la notice
+Propriétés structurales
+NATURE CHIMIQUE
+ETAT PHYSIQUE
+CONFIGURATION
+GROUPE ECHANGEUR D10N
+PRESENTATION
+Propriétés mécaniques :
+EPAISSEUR
+	
+0,17
+	
+0,19 mm
+ECLATOMETRIE
+	
+5
+	
+6
+	
+bar
+REMAROUE
+	
+résistance mécanique élevée
+Propriétés physico-chimiques :
+CAPACITÉ DECHANGE
+	
+1 , 5
+	
+1 .8 egg/kg de membrane sèche form Na+
+EAU CONTENUE
+	
+0,25
+	
+0,30 g eau/g membrane sèche forme Na+ par NaCI 0,5 N
+Propriétés électriques :
+RESISTANCE SURFACIQUE
+	
+2,5 3,5 f1 .cm2 dans NaCI 0,5 N à 25 °C
+NOMBRE DE TRANSPORT
+	
+0,98 minimum pour les cations (0,70 Na+ et K+ ; 0,28 Ca++ et Mg++)
+organique
+poreuse ( micropore )
+armée
+anionique fort
+sel de sodium
+VIII
+FABRICANT
+USAGE
+TYPE
+MARQUE
+CCDE
+FORME
+FORMAT
+REMORQUE
+TOKUYAMA SODA
+Electrodialyse
+Membrane échangeuse de cations monovalents
+NEOSEPTA
+CMS
+feuille
+1,00mx1,00m
+voir aussi la notice
+Propriétés structurales
+NATURE CHIMIQUE
+ETAT PHYSIQUE
+CONFIGURATION
+GROUPE ECHANGEUR D10N
+PRESENTATION
+Propriétés mécaniques :
+EPAISSEUR
+ECLATOMETRIE
+Propriétés physico-chimiques
+organique
+poreuse ( micropore )
+armée
+anionique fort
+sel de sodium
+0,14
+	
+0,17 mm
+3
+	
+4
+	
+bar
+CAPACITE D'ECHANGE
+EAU CONTENUE
+Propriétés électriques
+RESISTANCE SURFACIQUE
+NOMBRE DE TRANSPORT
+REM4ROUE
+2
+	
+2, 5 egg/kg de membrane sèche form Na+
+0,35
+	
+0,45 g eau/g membrane sèche forme Na+ par NaCi 0,5 N
+1,5 2,5 fLcm2 dans NaCi 0,5 N à 25 °C
+0,98 minimum pour les cations (0,90 Na+ et K+ ; 0,10 Ca++ et Mg++)
+perméable surtout aux cations monovalents
+ix
+ANNEXE III
+Fiches détaillées de quelques essais d'électrodialyse
+XDate : 20/1/92
+Temperature : 26 OC
+Intensité (A) : 12
+Membranes : AMX/CMS
+Volume initial diluat (1) 15
+Volume final diluat (1) : 14,37
+Volume initial concentrat (1) :1,5
+Volume final concentrat (1) : 2,24
+	
+1
+	
+l o o p ...
+S; 01 .
+.. . . . . .
+	
+.. ...
+0 0 35,5 93 0 69,9 32,8 0 0 62,2
+1 5 37,4 100 66,7 36,3 0 71,8
+2 15 34,0 Im 66,8 40,9 2 85,4
+3 30 33,2 Im 65,0 52,4 2 103,2
+4 45 30,1 101 62,4 56,2 5 113,4
+5 60
+I
+30,9 94 0 59,3 65,2 7 0 122,8
+Bilan des transferts ioniques (g) -88,5 -44 om 196A 96,8 16 0,0 181,8
+Bilan en sulfate de sodium (g)
+	
+, 299,0 268,9
+Rendements du transfert en Na2S04 el% 0A2% 84,6%
+Date : 15AN2
+Temperature : 27 T
+Intensité (A) : 12
+Membranes : AMX/CMX
+Volume initial diluat (1) 15
+Volume final diluat (1) : 14,3
+Volume initial concentrat (1) :1,5
+Volume final concentrat (1) : 2,2
+4à
+0 0 32,8 96 0 71,2 30,2 0 0 63,7
+1 5 70,5 9 73,0
+2 15 34,5 25 84,2
+3 30 63,3 46 103,5
+4 45 61,1 66 114,0
+5 w 29,3 85 0 56,4 63,9 90 0 126,0
+Bilan des transferts ioniques (g) -73,0 -225 co -261,5 95,3 198 0,0 181,7
+Bilan en sulfate de sodium (g) , 294,1 268,7
+Rendements du transfert en Na2S04 92,5% 0,22% 84j%
+Ac
+P-4
+0-4
+DM : 11=1
+Température : 23 Y
+Intensité (A) : 18
+Membranes . AMX/CMS
+Volume initial diluat (1) 15
+Volume final diluat (1) . 13,6
+Volume initial concentrat (1) :1,5
+Volume final concentrat (1) : 2,6
+.
+	
+. . . . . . . . . .
+	
+0 0 37,5 21 0 78,6 32,9 10 0 66,5
+1 5 36,9 17 78,1 36,7 123 81,0
+2 10 36,7 19 77,5 44,0 125 91,5
+3 20 35,7 19 75,4 52,1 133 98,7
+4 35 34,4 21 70,2 60,4 125 122,4
+5 50 30,9 21 67,1 72,0 118 147,0
+6 65 28,9 20 0 63,6 77,6 116 0 145,3
+Bilan des transferts ioniques (g) -169,5 -43 0,0 -314,0 152,4 287 0,0 278,0
+Bilan en sulfate de sodium (g)
+	
+, 470,5 411,3
+Rendements du transfert en Na2S04 91,1% 0,20% 79,6%
+Dm : 18/12/91
+Température : 21 Y
+Intensité (A) : 9
+Membranes : AMX/CMS
+Volume initial düuat (1) 15
+Volume final diluat (1) : 13,6
+Volume initial concentra (1) :1,5
+Volume final concentrat (1) : 2,5
+. . .
+	
+.
+	
+. . . . .. . .
+. ..
+.
+. . . . . .
+	
+.
+0 0 35,9 22 0 75,5 30,8 0 0 63,6
+1 10 35,6 23 78,6 29,5 74,9
+2 20 35,4 23 76,5 35,2 85,9
+3 35 32,6 22 75,2 40,6 93,5
+4 55 28,5 21 73,3 53,3 115,3
+4 bis 55 31,5 19 71,2 53,1 117,8
+5 85 29,2 19 66,9 53,5 129,7
+6 120 29,6 19 0 63,1 61,3 0 0 136,8
+Bilan des transferts ioniques (g) -135,9 -72 0,0 -274,3 107,1 0 0,0 246,6
+Bilan en sulfate de sodium (g)
+	
+, 330,5 364,8
+Rendements du transfert en Na2S04 69,3% 0,00%
+	
+1 76,5%
+XRemarque : l'électrodialyse a été interrompue à t = 55 min . (entre les indices 4 et 4bis); le sel ayant précipité dans le concentrat
+	
+0.0
+xIv
+XV
+ANNEXE IV
+Comparaison des performances des membranes
+cationiques étudiées en électrodialyse
+XV1
+Comparaison des membranes cationiques classique CMX et "sélective" CMS
+Influence de la densité de courant sur les performances des membranes
+Membranes Densité Quantité Rendement Rendement Rendement Concentration finale Transfert
+Anionique / de courant d'électricité cationique anionique d'exclusion du en calcium dans le d'eau
+Cationique (mA/cm2) (Coulombs) % % calcium % concentrat en Ué .m2
+AMX/CMX 60 43200 92,5 84,5 0,22 90 0,92
+AMX/CMS 60 43200 94,1 84,6 0,02 7 0,98
+AMX/CMS 90 48600 81,7 84,2 0,02 10 0,97
+AMX/CMS 45 48600 87,6 86,0 0,02 7 0,98
+Remarque : les essais présentés ci-dessus ont été tous menés sur des effluents réels contenant au départ environ 100 mgn de calcium
+XVII
+Comparaison de rendements en courant des deux
+membranes cationiques
+~
+..e
+~
+~0
+u
+C
+~
+...
+~d
+E
+Cu
+~
+aa
+oc
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+rendement cationique
+N AMX/CMX ;:;: AMX/CMS
+rendement anionique
+Influence de la densité de courant sur les
+rendements en courant - Membranes AMX/CMS
+..
+~
+~
+a
+L
+V
+C
+~
+C
+W
+~
+«C
+°
+~
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Rendement cationique
+N 90 mA/cm2 ÿ'&gt;. 45 mA/cm2
+Rendement anionique
+XIX
+Comparaison entre les membranes CMS et CMX
+Evolution des concentrations en sulfate de sodium
+0
+	
+10
+	
+20
+	
+30
+	
+40
+	
+50
+	
+60
+temps (minute)
+200
+180
+160
+s
+120
+100
+80
+XX
+30
+29
+28
+27
+„U0
+m 26
+~
+C
+~
+G
+O
+u 250
+13
+v
+~
+~war.
+â 24
+E
+ar
+.
+.
+23
+22
+21
+20
+Comparaison entre les membranes CMS et CMX
+Evolution de la température des concentrats
+0
+	
+10
+	
+20
+	
+30
+	
+40
+	
+50
+	
+60
+temps (minute)
+XXI
+Comparaison entre les membranes CMS et CMX
+Evolution de la tension globale
+0
+	
+10
+	
+20
+	
+30
+	
+40
+	
+50
+	
+60
+temps (minute)
+
+XXIII
+ANNEXE V
+XXN
+AVERTISSEMENT
+Cette annexe . très technique n'intéressera que les personnes connaissant parfaitement le
+matériel DIONEX ou désirant faire ce type de dosage par chromatographie ionique. Une note
+technique plus complète en sera tirée et éditée à part ultérieurement.
+INTRODUCTION
+Nous avons rencontré au cours de nos essais d'électro-électrodialyse du sulfate de sodium un
+problème important : le calcium présent en solution détruit la membrane cationique en
+quelques centaines d'heures.
+Comme dans l'industrie du chlore-soude nous devrons prétraiter les effluents industriels avant
+d'envisager leur traitement par électro-électrodialyse . Trois modes de prétraitement s'offrent à
+nous :
+* l'électrodialyse (ED) avec des membranes sélectives aux ions monovalents;
+* le traitement chimique pour précipiter le calcium sous forme de carbonate et/ou
+d'hydroxyde;
+* les résines échangeuses d'ions chélatantes pour bloquer préférentiellement les ions
+multivalents comme le calcium, après traitement chimique de l'effluent.
+Nous avons travaillé sur des solutions réelles fournies par la société LABSO CHIMIE FINE.
+Les effluents LABSO (solution de sulfate de sodium à 110 g/1) contiennent quelques dizaines
+de milligrammes par litre de calcium avant tout traitement.
+Dans un cas comme dans l'autre il faut pouvoir contrôler les performances avec une méthode
+d'analyse fiable. Une technique est employée avec succès dans le domaine du chlore-soude
+la chromatographie ionique.
+Il faudra obtenir une sensibilité suffisante en calcium, quelque soit la technique de
+prétraitement utilisée . Pour cela il faudra jouer sur les conditions d'analyses mais en essayant
+de garder la même colonne de séparation et le même éluant . Pour chaque technique de
+prétraitement l'ordre de grandeur de la concentration finale en calcium dans l'effluent est
+connue.
+XXV
+1) dosage après traitement par électrodialyse
+Deux circuits sont à suivre au cours de l'essai de reconcentration de sulfate de sodium par
+électrodialyse : le diluat, et le concentre
+Côté diluat les solutions traitées par ED ont une concentration initiale de l'ordre de 20 à 100
+ppm de calcium par litre. Cette concentration évolue peu au cours de l'essai, elle reste du
+même ordre que la solution initiale . Pour ces deux solutions le dosage classique de calcium
+par chromatographie ionique est conseillé sur les solutions diluées de 3 à 100 fois pour éviter
+de trop masquer le calcium et éventuellement le magnésium.
+Côté concentrat, suivant les essais, la concentration en calcium des solutions peut varier de
+quelques mg/1 à quelques dizaines de mg/1 . Dans ce cas il est difficile compte tenu des
+dilutions nécessaires d'avoir une bonne reproductibilité du dosage classique . Une façon
+d'améliorer la reproductibilité est entièrement basée sur le traitement mathématique du
+chromatogramme. On peut travailler en hauteurs de pic (et non plus en surfaces) en
+augmentant la sensibilité du détecteur (10 µS au lieu de 30 µS) . De cette façon ont limite
+l'influence des fluctuations de la ligne de base beaucoup plus visibles avec cette sensibilité.
+Sinon les conditions opératoires restent les mêmes en limitant au maximum la dilution de
+l'échantillon (dilution par 3) . L'augmentation du volume de la boucle d'échantillonnage ne
+serait une amélioration possible que si la quantité de sodium est relativement faible (ce qui
+n'est vérifié qu'en début d'essai).
+[Le nouveau logiciel de traitement des chromatogrammes, l'AI450 de chez DIONEX,
+simplifie considérablement ce dosage . Sa faculté de changer de gamme de conductimètre si
+besoin est, alliée au retraitement mathématique ultérieur des chromatogrammes limitent le
+nombre de chromatogrammes inexploitables. Un exemple: il est possible de faire le dosage
+direct d'une eau de ville sans dilution préalable en une seule injection . Ce dosage ne pourrait
+être normalement obtenu qu'en faisant 2 voire 3 analyses exploratoires (à moins d'avoir
+énormément de chance) avant de faire le dosage proprement dit .]
+Nota : la préconcentration de l'échantillon n'est pas facile à adapter à ce niveau, la
+concentration en calcium est encore 1000 fois trop concentrée . Ou alors il faudrait diluer en
+conséquence.
+Pour cette série de dosages il faut, même avec le nouveau logiciel AI450, adapter les étalons
+aux matrices des solutions dosées . Les étalons doivent donc être faits dans une solution de
+sulfate de sodium et non dans de l'eau pure. Si la solution à doser contient 200 g/l de sulfate
+de sodium, et qu'on la dilue 3 fois, l'étalon doit contenir 200/3 g/1 (soit environ 67 g/1) de
+sulfate de sodium. S'il est dilué 10 fois, l'étalon en contiendra 20 g/l .
+XXVI
+2) dosage après traitement chimique
+Une solution traitée chimiquement a une concentration finale en calcium comprise dans la
+gamme 2 à 10 ppm. Nous nous retrouvons dans le même cas de figure que pour le dosage du
+concentrat après ED, à la nuance près que la concentration en sodium est maximale . Nous
+devrons donc dans tous les cas diluer au moins 100 fois la solution à doser . Dans ce cas
+particulier la préconcentration sélective du calcium après dilution 1000 fois de l'échantillon
+semble intéressante . Elle n'a pu être testée faute de temps.
+3) dosage après traitement par résine
+La sensibilité doit être de l'ordre de la dizaine de µg/1 . C'est généralement la concentration
+résiduelle d'une saumure après traitement sur résines échangeuses d'ions. Il est généralement
+admis que la saumure avant électrolyse doit avoir une concentration approximative en
+calcium de 20 à 50 µg/1 pour augmenter très sensiblement la durée de vie de la membrane
+cationique.
+Le dosage direct par chromatographie ionique est impossible dans ce cas . Par contre cette
+technique autorise une préconcentration sélective du calcium avant analyse.
+La difficulté était d'adapter cette technique à une saumure contenant non pas du chlorure de
+sodium, mais du sulfate de sodium, avec du matériel et un éluant quelque peu différents de
+ceux décrits dans la notice DIONEX sur cette application. DIONEX annonce une sensibilité
+inférieure à 5 µg/1 pour l'application classique. Il fallait le vérifier pour notre application
+particulière en s'assurant de la reproductibilité des résultats .
+XXVII
+ID Dosage du calcium sans préconcentration
+Pour faciliter la partie analytique de nos essais nous avons figé le plus possible de conditions
+d'analyse. En fait toutes les conditions opératoires de base sont identiques que le dosage se
+fasse avec ou sans préconcentration.
+1) Conditions opératoires de base
+a) l'éluant
+L'éluant est préparé à partir de produits de haute pureté
+- acide chlorhydrique à 30% "Normatom",
+- acide diaminopropionique à une molécule d'acide chlorhydrique (DAP .HCI) de chez Fluka,
+- eau osmosée et déminéralisée de qualité électronique.
+Sa composition est :
+- 60 mMol/1 dUCI
+- 12 mMol/1 de DAP.HCI
+Pour faciliter la dissolution du DAP .HCI il est préférable de commencer par diluer l'acide
+chlorhydrique concentré dans une fiole contenant la moitié de l'eau nécessaire à l'éluant.
+ATTENTION : mettez vos gants et vos lunettes pour manipuler l'acide
+chlorhydrique à 30%, et évitez d'en respirer les vapeurs.
+Après dissolution totale du DAP .HCI et ajustement du niveau d'eau dans la fiole, il faudra
+filtrer l'éluant (porosité du filtre 0,45 µm).
+b) les précolonne et colonne de séparation
+La colonne "CS 10" de chez DIONEX à été choisie pour sa bonne séparation des cations
+alcalins et alcalino-terreux en moins de 10 mn en mode isocratique (la composition de l'éluant
+ne change pas au cours de l'analyse contrairement au mode gradient).
+La précolonne "CG 10" protège la colonne des éventuels polluants organiques ou métalliques.
+Elle est de même nature que la "CS 10", elle commence la séparation des ions dosés et bloque
+les polluants .
+XXVIII
+c) la préparation à la détection
+La détection des espèces dosées est conductimètrique. La préparation à la détection est
+assurée par la micromembrane "CMMS II" alimentée par le régénérant classique pour les
+cations à 100 mMol/1 d'hydroxyde de tétrabutylammonium . Le débit du régénérant est réglé a
+100% de pulsations pour 40% de course de piston de la pompe . Un détail qui a son
+importance, la cartouche de résine du circuit de régénérant doit être alimentée de haut en bas.
+Il faut bien sûr chasser toutes les bulles d'air de la cartouche lors de sa mise en service.
+d) autres conditions
+Le débit de l'éluant est réglé à 1 ml/mn . La pression doit être alors entre 1100 et 1300 PSI
+(pounds per square inch).
+Il est préférable que la température du laboratoire soit stable (climatisation) . La conductivité
+est en effet très sensible à la température et la correction de température n'est pas
+automatique.
+2) La préparation des échantillons et l'échan ti llonage
+Une simple dilution des échantillons est suffisante (mais nécessaire) pour pouvoir les injecter
+dans notre colonne. La dilution peut aller de 3 à 100 fois suivant les concentrations en
+calcium et bien entendu en sodium . (Il ne faut surtout pas que le sulfate de sodium précipite
+dans les circuits du chromatographe .)
+C'est le passeur d'échantillons qui assure l'injection des solutions à doser dans la boucle
+d'échantillonage.
+Le volume de la boucle d'échantillonage est de l'ordre de 100 µl. Son volume exact importe
+peu puisque les solutions étalons sont analysée de la même façon que les échantillons . Un
+millilitre de solution à analyser balaye cette boucle d'échantillonage.
+Un volume de cette importance permet de rincer correctement la boucle d'échantillonage et
+les volumes morts entre le passeur d'échantillons et la vanne d'injection. Les interférences
+entre deux échantillons sont ainsi éliminées .
+XXIX
+3) Programmes utilisés pour ce type de dosa ge
+a) Si la quantité de sodium est faible (quelques g/1)
+Le programme de dosage des alcalins et alcalino-terreux (ALCALINS .MEI) est adapté à ce
+type de solution. Le sodium n'interférant pas avec le calcium un seul étalon est nécessaire . La
+surface des pics est directement proportionnelle à la concentration de l'échantillon . La droite
+d'étalonage est de type y = ax (x étant la concentration et y la surface du pic).
+Cela n'a malheureusement pas été le programme le plus utilisé au cours de nos essais.
+b) Si la quantité de sodium est importante (quelques dizaines de g/1)
+Nous avons mis au point un programme (CALCIUM.MEn dérivé du précédent adapté au
+dosage de quelques mg/1 de calcium dans une saumure à 200 g/1 de sulfate de sodium (ou
+moins) . L'étalonage a été fait sur plusieurs niveaux pour vérifier la linéarité des réponses
+(pics) en fonction des concentrations en calcium, mais aussi en magnésium.
+Les réponses sont effectivement linéaires, mais la droite d'étalonage ne passe plus tout à fait
+par zéro. Ce léger décalage est dû au pic trainant du sodium qui interfère avec le magnésium,
+et dans une moindre mesure avec le calcium.
+Les seuils de détection du magnésium et du calcium sont bien sûr plus hauts que dans le
+premier cas. Les concentrations non détectables dans une saumure à 200 g/1 de sulfate de
+sodium (soit = 65 g/1 de sodium) sont :
+*
+	
+pour le magnésium les concentrations inférieures à 10 mg/1,
+*
+	
+pour le calcium les concentrations inférieures à 3 mg/1.
+Malheureusement ce programme n'a pu être mis au point qu'après l'acquisition de
+l'AUTOION 450, c'est à dire une fois terminée une bonne partie des essais.
+1) Conditions Wdratoires
+Elles sont identiques à celle du dosage sans préconcentration .
+XXX
+2) Préparation de l'échantillon
+A 200 g/1 le sulfate de sodium est une solution instable . La moindre baisse de la température
+ambiante favorise sa cristallisation . Pour être conservée à température ambiante cette solution
+doit être agitée constamment . Pour éviter ce genre de problème dans les circuits du
+chromatographe nous dilurons nos échantillons. Le bon compromis pour garder un seuil de
+sélectivité inférieur à la concentration préconisée en calcium est une dilution par trois
+(=1 volume de saumure pour 2 volumes d'eau déminéralisée).
+3) Préconcentration de l'échantillon
+Dans un premier temps la colonne préconisée pour faire cette préconcentration était la
+"MetPac CC-1". A l'usage nous nous sommes aperçus d'une instabilité chronique et d'un
+manque de reproductibilité flagrant de cette colonne . Après une longue discussion avec
+DIONEX ils ont convenu qu'il fallait que la solution à préconcentrer soit à un certain pH (5,5)
+pour que la préconcentration se fasse dans de bonnes conditions . De plus cette colonne est
+surtout utilisée pour la préconcentration de métaux de transition, chose qu'il nous était
+difficile de vérifier sans la notice d'emploi.
+Finalement nous avons utilisé la colonne MFC-1 de chez DIONEX . Cette colonne est peut-
+être moins récente que la précédente, mais au moins elle à fait ses preuves dans le domaine du
+chlore-soude.
+Après divers tâtonnements nous avons réussi à définir comment faire cette préconcentration :
+*
+	
+l'injection est assurée par le passeur d'échantillons en positions :
+- CONC (concentration)
+- BLEED OFF (pour pouvoir injecter 6 ml)
+- PROP (mode proportionnel)
+- 1 INJ/VIAL (1 injection par tube échantillon)
+*
+	
+le volume préconcentré sera de 6 ml (volume maximum possible avec le passeur), soit _
+deux volumes d'échantillon pour quatre d'eau légèrement ammoniaquée (pH=9-10)
+*
+	
+la préconcentration proprement dite dure 9 mn
+XXXI
+4) Rinçage du circuit de préconcentration
+Pour éliminer le sel de sodium en excès dans la colonne de préconcentration et dans les
+tubulures en amont et en aval de celle-ci il faut les rincer avec de l'eau déminéralisée ajustée à
+pH-10 avec de l'ammoniaque pour analyses passée préalablement sur une colonne de
+piégeage de même nature que la colonne de préconcentration (soit une colonne MFC-1).
+D'après DIONEX l'ammoniaque entraînerait plus facilement l'excès de sodium.
+Ce rinçage est assuré par le passeur d'échantillons en deux fois (soit 12 ml en 18 mn).
+5) Programme d'intégration pour le dosage de traces de calcium
+Nous avons eu quelques difficultés à le mettre au point . Une fois passés les problèmes de
+chimie, il fallait adapter la méthode d'analyse à notre matériel . Généralement pour obtenir une
+sensibilité suffisante, quand on est proche de la limite de détection, il suffit de préconcentrer
+plus de solution. La préconcentration est en effet linéaire . Malheureusement nous étions
+limités à 6 ml de solution à préconcentrer, à moins d'accepter de mettre beaucoup plus de
+temps pour injecter un échantillon que pour l'analyser . Nous avions déjà 27 mn de
+préconcentration + rinçage pour seulement 11 mn d'analyse . Nous ne pouvions nous
+permettre de perdre plus de temps.
+Pour arriver à nos fins il nous a fallu jouer sur le traitement mathématique des
+chromatogrammes. Malgré cela les réponses n'étaient pas parfaitement linéaires . Dans la zone
+de travail que nous nous étions fixée (0 à 50 µg/1) nous n'avons pas pu obtenir de coefficient
+de corrélation pour la droite d'étalonage meilleur que 0,95 (en chromatographie ionique ils
+sont plutôt de l'ordre de 0,999) . Comme seul l'ordre de grandeur de la concentration résiduelle
+en calcium nous intéressait, nous nous sommes accomodés de ce résultat.
+Le programme utilisé s'appelle TRACESCA.MET.
+IV) Précautions
+Quelquesoit l'élément à doser, il faut redoubler de vigilance quand il s'agit de doser des traces.
+Quand on dose des traces de calcium, c'est encore plus vrai . On le trouve naturellement
+partout autour de nous sous forme de poussières, dans l'eau, mais aussi dans notre sueur
+(attention aux doigts mal placés lors des dilutions) .
+XXXTY
+Malgré l'eau très pure que nous utilisons dans notre laboratoire d'analyses nous n'avons pu
+empêcher un certain "bruit de fond" que nous avons dû éliminer mathématiquement en faisant
+des blancs à chaque fois que nous entamions une nouvelle série d'analyses.
+Il va sans dire que la verrerie utilisée doit être très propre (attention particulièrement aux
+rayures internes de certaines fioles) . Les flacons pour échantillons du passeurs et leurs
+bouchons-filtres doivent être impérativement et abondamment rincés à l'eau déminéralisée,
+puis séchés dans une étuve propre réservée à cet usage.
+La colonne de préconcentration et les circuits entre le passeur et la vanne d'injection doit être
+rincée à l'eau ammoniaquée. La colonne de préconcentration sera ensuite rincée avec l'éluant.
+Conclusion
+Le dosage de traces de calcium dans une saumure contenant jusqu'à 200 g/1 de sulfate de
+sodium est maintenant au point . Il est probablement perfectible, c'est pourquoi toutes les
+remarques sont les bienvenues .

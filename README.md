@@ -1,12 +1,39 @@
+= Build dependencies
 
-- sometimes, when install a new bundle, the engine complains about "Class not found". Source of this not well identified for now. A restart of the stanbol server solve this isssue.
+* UIMA
+ * get uima engines dependencies : 
+ * svn co http://svn.apache.org/repos/asf/uima/sandbox/trunk/ sandbox
+  * Last Changed Rev tested: 1056535 
+ * cd sandbox/aggregate-addons
+ * mvn install -Dmaven.test.skip=true
+   * skip test because : https://issues.apache.org/jira/browse/UIMA-2003
 
+* Clerezza
+ * Last Changed Rev tested: 993306
+ * mvn install -Dmaven.test.skip=true
 
+= Add uima modules to the stanbol server
 
-- les problème de classloading et discovering sont du au fait que les bundles exportent les même packages et que le bundle qui fait l'import ne peux en sélectionner qu'un.
--- une des solutions serait de "netoyer" l'ensemble des bundles en commencant par l'uima.utils (clerezza) puis les autres...
--- il faut les sortir pour en faire des bundles indépendants.
+* modifity this file : fise/launchers/full/src/main/bundles/list.xml 
+* in <!-- FISE Enhancement Engines -->
+	<startLevel level="30">
+* add :
+<bundle>
+      <groupId>org.apache.stanbol</groupId>
+      <artifactId>org.apache.stanbol.enhancer.engines.uimaservice</artifactId>
+      <version>0.9.0-incubating-SNAPSHOT</version>
+    </bundle>
+    <bundle>
+      <groupId>org.apache.stanbol</groupId>
+      <artifactId>org.apache.stanbol.enhancer.engines.uima.gasoil</artifactId>
+      <version>0.9.0-incubating-SNAPSHOT</version>
+    </bundle>
 
-- the uima-utils package is the main responsible for locate class and resource loading.
+= Curl test
+* cd dev-material
+* curl -X POST -H "Accept: text/turtle" -H "Content-type: text/plain" -F "data=@document" http://localhost:8080/engines
 
+= Publish module direclty on running server
+
+* mvn install -o -DskipTests -PinstallBundle -Dsling.url=http://localhost:8080/system/console
 
